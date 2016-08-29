@@ -1,0 +1,1252 @@
+id,tag,title,description,class,category,action
+13,AART,"Art In Embassies Program","Use for communications relating to the art-in-embassies program, including the load, placement, or return of art objects at post and coordination of art activities with other Federal agencies and organizations.",administration,subject,A/ART
+14,ABLD,Buildings,"Use for (1) matters pertaining to FBO appropriations, including travel of FBO employees and local assistants, and FBO vehicles; (2) policy matters concerning (a) coordination of the foreign se// buildings program, (b) FBO authorization and appropriations bills, and (c) use of Government-owned or long-term (10 years or more) leased buildings; (3) proposals for the purchase, design, construction, long-term lease, and disposal of buildings or sites under the Foreign Service Buildings Act, including proposals for major and minor improvements; (4) maintenance and repair of Government-owned long-term leased buildings; (5) offers of gifts applicable to the Foreign Buildings Program; and (6) purchase of initial and replacement household furnishings and equipment.",administration,subject,A/FBO
+15,ABUD,"Budget Services and Financial Systems","Use for matters relating to budget operations and financial systems including (1) budget planning, formulation, and presentation, (2) reimbursements, (3) shared adminisrtative support, (4) allotments, (5) forieng currency policy matters, including use and administration of foreign currencies with particular reference to such topics as (a) accommodation exchange, (b) international travel, (c) sales to U.S. citizens, (d) balance of payment impacts, (e) spacial foreign currency programs, (f) excess foreign currencies; and (g) procedural aspects of 4 FAM.",administration,subject,A/BF
+16,ACLM,"Claims Against the USG","Use for all claims, suits, etc brought against the U.S. government by foreign nationals or U.S. citizens, including government employees. For claims against foreign nationals or governments use CPRS.",administration,subject,NULL
+17,ACMM,Committes,"Use for matters pertaining to the establishment, operation, administration and duration of advisory, interdepartmental and department committees. The term committee applies to any board, commission, council, conference, panel, task force, or other similar group, or subcommittee or other subgroups thereof. This function includes liaison with the Office of Management and Budget, the Congress, the Library of Congress, Federal agencies of the Executive Branch, and the general public.",administration,subject,M/MO
+18,ACMS,"COMSEC Material","Use for communications discussing (a) shipment and receipt of COMSEC equipment and crypto keying material and publicatoins, including requests for resupply or new issue of such material; (b) opening or closing COMSEC accounts; (c) accountability of COMSEC and COMSEC related material (such as discrepancies in inventory reports, and incorrect preparation of SF-153 forms).",administration,subject,NULL
+19,ACOU,"Courier Operations","Use for all matters pertaining to courier operations and schedules, including arrangements for non-pro couriers.",administration,subject,NULL
+20,ADTO,"Domestic Telecommunications Operations","Use for communications discussing all aspects of telecommunications operations within the contiguous United States except those at the U.S. Mission to the United Nations, N.Y. For USUN operations use AFOP. The Subject line of Airgrams, Telegrams and Memoramdums is to begin with the name of the project or equipment nomenclature involved. Included is, (a) correspondence with other departments and agencies regarding arrangements for handling information interchance (in electrical form); (b) correspondence within the Department regarding telecommunications services within the Department of State building its annexes in the Washington area (e.g., secure voice, secure facimile, telegrams, Electrical Advanced Distribution System (EADS) service.",administration,subject,NULL
+21,AEMR,"Emergency and Evacuation","Use for all emergency and evacutation matters, except financial aspects (for which use AFIN). For voice radio aspects also use AVCE; for other aspects of telecommunications also use ANET, AFOP or ACMS as appropriate.",administration,subject,OPR/WLG
+22,AFAC,"CRU/CCC Facilities (Communications and Records Unit or Combined Communications Centers)","Use for communications discussing (a) the physical arrangements of the Post's communications center, including alterations, renovations or new building plans (also use ABLD where appropriate); (b) TEMPEST aspects of such facilities; (c) technical security aspects of the facilitiesl (d) telecommunications equipment installations, including shipment and storage of materials, arrival of TDY installation and training personnel and other logistics matters related to such installations; (e) EMSEC aspects of equipment installed or proposed for use at Posts.",administration,subject,NULL
+23,AFSI,"Foreign Service Institute","Use for operational matters concerning training programs, assignments, materials, field installations, etc.",administration,subject,M/FSI
+24,AFSP,"Post Administration","Includes all matters relating to post-held funds (all allotments issued by regional bureaus) such as (a) allowances; (b) automotive operating expenses; (c) budget; (d) buildings - operating expenses; (e) communications and records expenses; (f) contractual and miscellaneous expenses; (g) financial plans; (h) local salary costs; (i) reimbursement; (j) shared administrative support; (k) supplies and equipment. Matters related to post personnel management: position classification, separate maintenance allowance applications, rest and recuperation eligibility and travel, authorization for travel and shipment of effects.",administration,subject,OPR/ESC
+25,AGAO,"General Accounting Office","Use for all matters related to U.S. General Accounting Office (GAO) surveys, investigations, audits, reviews, and reports concerning the Department's domestic and overseas programs.",administration,subject,A/BF/OAG
+26,AINF,"Records and Data Processing Services","Use for messages concerning (1) airgram format, procedures, and numbering; (2) corrections to be made on omitted or incorrect security classifications and/or declassification schedules; (3) request for information copies of telegrams, airgrams, memoranda of conversation, etc; (4) records management:: creation, organization maintenance, and disposition of post records; (5) request for reference service on retred post files; nofitifcation and shipment of post records, for all local employee personnel folders use APER; (6) matters pertanining to the Traffic Analysus by Geography and Subject (TAGS) system; (7) requests from the public for records under the Freedom of Information Act and the Privacy Act.",administration,subject,O/FADRC
+27,AINR,"INR Program Administration","To be used on messages concerning the administrative and procedural aspects of INR programs.",administration,subject,INR
+28,ALOW,Allowances,"Use for matters concerning (1) classification of posts for, and rates of, all allowances (including travel per diem and differentials for new and existing posts); (2) Government-wide allowances and differentials in foreign areas affecting U.S. civilian employees of all Federal agencies; (3) policy, procedures, and interpretation of regulations contained in the Standardized Regulations (Government Civilians, Foreign Areas) and 3 FAM 300 pertaining to all allowances, differentials, and related matters, oncluding educational travel, official residence expenses (ORE), designation of principal U.S. representatives for ORE purposes, and unhealthful post lists; and (4) requests for copies of the Standardized Regulations.",administration,subject,A/ALS
+29,AMED,"Medical Services","Use for all medical matters relating to Foreign Service employees and dependents and medical administative arragements, such as treatments, hospitalization, copies of medical records, medical meetings, billings and financing, requests by eligible posts for USPHS Medical Supply Catalogs and changes thereto, and other medical administration matters.",administration,subject,DG/MED
+30,AMGT,"Management and Organization","Use for matters pertaining to the establishment, organization, reorganization, termination or abolition of offices, organizations, or overseas posts; and the definition, assignment, or realighment of functions.",administration,subject,S/IG
+31,AMTC,"Telecommunications Equipment Maintenance","Use for communications: (a) requesting routing maintenance or emergency repair service of telecommunications equipment, and automated VISA terminals; (b) requesting spare parts and components for such equipment; (c) discussing shipment arrangements and other logistics matters related to delivery and receipt of materials, spare parts and components, publications, etc. in support of repair and maintenance of such equipment.",administration,subject,ANET
+32,ANET,"Communications Circuits and Networks","Use for all matters relating to (a) acquisition or cancellation of all types of telecommunications circuits serving the post or the Department (leased, Government-wned, radio, teletype, facsimile, telephone, satellite); (b) routing indicator assignment; (c) routing of traffic; (d) network configuration.",administration,subject,NULL
+33,AODE,"U.S. Overseas Direct Employment Program","For matters relating to the establishment or disestablishment of full-time permanent positions by any U.S. Government Agency operating in a foeign country under the authority and responsibility of the U.S. Ambassador or other Chief of Mission.",administration,subject,M/MO
+34,AORG,"International Organization Administration","Use for messages involving administrative and financial matters of international organizations",administration,subject,IO/EX
+35,APER,Personnel,"Use for all matters concerning Foreign Service personnel except matters handled by the Regional Bureau Executive Office",administration,subject,PER/MGT/PS
+36,APOU,"Mail and Pouch","Use for communications concerning all matters pertaining to contents, scheduling, routing, and tacing delays of pouch dispatch and APO/FPO service. This encompasses both unclassified and classified pouches.",administration,subject,NULL
+37,APUB,"Publishing, Printing, Distribution and Library Services","Use for messages concerning printing and distribution of Departmental publications to posts, including requests for copies of manuals, various technical handbooks, and related transmittal letters, inquiries regarding the availability of specific publications, and requests for changes in the distribution pattern.",administration,subject,DG/PA
+38,AREC,"Commissary and Recreation","Use for matters concerning the establishment, maintenance, and operation of commissary and mess service (including snack bars) and recreation facilities at posts.",administration,subject,O/OPR
+39,AREG,"Regulations and Directives","Use of messages inquiring about or suggesting changes in the Foreign Affairs Manual (FAM), Foreign Affairs Handbook (FHA), Foreign Affairs Manual Circulars (FAMC's), and the Correspondence Handbook.",administration,subject,FADRC/DIR
+40,ASCH,"Overseas Schools","Use for matters concerning elementary and secondary schools outside the United States which provide educational facilities for dependents of U.S. Government civilian employees and serve as demonstration sencers of U.S. educational methods and practices.",administration,subject,A/OS
+41,ASEC,Security,"Use for all aspects of security except communications security.",administration,subject,A/SY
+42,ASIG,"Management Evaluations and Inspections","Use for subjects involving the Department's inspection actvities (audits, overseas inspections, domestic evaluations) these cover Department unctions, overseas posts, missions, other agency programs, contracts, and grants.",administration,subject,S/IG
+43,ASUP,"Supplies and Equipment","Includes communications on (1) official vehicles; (2) purchase, shipment, inventory, and condition of administrative supplies, equipment, and furniture, but excluding books, periodicals, and other material of interest to the Library, for which use APUB",administration,subject,OPR/ST
+44,ATRN,Transportation,"Use for matters, including claims, pertaining to the shipment of baggage, household effects, and personally owned autoobiles and related documentation",administration,subject,OPR/ST
+45,AVCE,"Foreign Service Post Voice Communications Facilities","Use for discussing (a) post telephone, intercom and voice radio systems in all respects except maintenance; (b) all aspects of secure voice or limited voice protection service except for maintenance which should use AMTC.",administration,subject,NULL
+46,AWRD,Awards,"Use for matters concerning awards.",administration,subject,OC/EX
+48,BAGB,Agribusiness,"Use for all reporting on agribusiness developments and the possible application of American Technology and products to these projects. Includes projects where there is a need for engineering design, consulting, U.S. investment, venture capital, or planning services as well as equipment and construction in the agricultural field.","business services",subject,COM
+49,BBAK,"Background on Firms, Products, and Individuals","Use for communications giving or requesting background, financial responsibility, general repuation, and organization of a specific company or individual. Also use for communications regarding a specific product of a company, and individual, a trade association, or a multinational corporation.","business services",subject,NULL
+50,BBSR,"Business Services Reports","Use for reports provided routinely as a service to the business community.","business services",subject,NULL
+51,BDIS,"Trade Complaints and Disputes","Use for communications, including followups, concerning a specific trade dispute between a U.S. and a foreign business, and for trade complaints regarding U.S. firms or products.","business services",subject,NULL
+52,BENC,"Engineering and Construction Services","Early alter and follow-up information on planning, design, enginering, construction of major infrastructure and industrial systems project with potential of $5 million or more in U.S. services fees and equipment exports.","business services",subject,NULL
+53,BEXP,"Trade Expansion and Promotion","Use for routing operational and administrative correspondence relating to activities of the Department of Commerce to promote the U.S. trade, including official U.S. trade exhibitions in the United States and abroad, trade fairs, missions, centers, Trade Development Trade Information Offices (TDTIO's)","business services",subject,NULL
+54,BFOL,"Followup Request","Use to follow up on unanswered inquiries or reporting requests and to supply or request from the field supplementary information","business services",subject,NULL
+55,BGEN,"Business Services -- General","Use only when more specific indicators above-listed do not appear applicable or when it is desired to indicate a relationhip between another caption and business services in general.","business services",subject,NULL
+56,BPRO,"Business Proposals and Inquiries","Use for communications regarding specific proposals and trade inquiries by U.S. Businessmen for presentation and development by the U.S. Government Trade Mission members.","business services",subject,NULL
+57,BPUB,"Business-Commercial Publications and Libraries","Use to request purchase or acquisition of publications or subscriptions for Department of Commerce (Washington) and for Commerce-originated publications, such as Overseas Business Reports (OBR's) and Commercial Newsletters.","business services",subject,NULL
+58,BTIO,"Trade and Investment Opportunities","Use for administrative or operational messages of a routine nature on trade and investment opportunities aborad.","business services",subject,NULL
+59,BTRA,"Travel by U.S. and Foreign Businessmen","Use for communications regarding travel of businessmen abroad, including itineraries, appointments, special interests, information on product line, financial status, reputation, etc","business services",subject,NULL
+60,CARR,"Americans Arrested Abroad","Used for all matters related to imprisoned Americans. This includes all matters related to offenses, arrests, trial, detention and release.","consular affairs",subject,SCA/SCS
+61,CASC,"Assistance to Citizens","Use for all matters related to the welfare and whereabouts of United States nationals or citizens (excluding arrest cases, seamen and air crewmen). ","consular affairs",subject,SCA/SCS
+62,CDES,"Death and Estates","Includes matters related to the deaths of U.S. citizens in foreign countries and the disposition of their remains. Also includes matters concerning (1) U.S. citizens establishing their rights to estates abroad; (2) consercation of the estates of U.S. citizens who die abroad; and (3) foreign beneficiaries of U.S. estates.","consular affairs",subject,SCA/SCS
+63,CFED,"Federal Agency Services","Use for administrative and operational matters pertaiing to such Feeral agencies and the Veterans Administration, Social Security Administration, Railroad Retirement Board, Civil Service Commission, Internal Revenue, Selective Service, Department of Defense, and the Department of the Treasury","consular affairs",subject,SCA/SCS
+64,CGEN,"Consular Affairs -- General","Use for consular matters when none of the more specific indicators is applicable","consular affairs",subject,SCA/SCS
+65,CPAS,"Passports and Citizenship","Includes all matters pertaining to U.S. citizenship or nationality including registration of citizens, reports of birth, marriage of citizens abroad, etc. Includes all matters related to the denial, issueance, renewal ise, lostt, etc., of U.S. passportd","consular affairs",subject,SCA/PPT
+66,CPRS,"Property Protection Services","Includes all matters pertaiing to protection of ownership, interests, or claims of U.S. citizens, ro personal or real property, including intangible property in foreign countries.","consular affairs",subject,SCA/SCS
+67,CVIS,Visas,"Use for operational, procedural, and substantive aspects of the visa function, as well as individual cases involving immigraion, visa, and deportation matters.","consular affairs",subject,SCA/VO
+68,EAGR,"Agriculture and Forestry","Use for papers dealing with (1) general agricultural programs and policies of the government; (2) theories and practices of agriculture, forestry and wildlife management; (3) land use, land reforms and soil conservation; (4) irrigation systems and desalinization; (5) development, production and procurement of agricultural equipment and machinery.","economic affairs",subject,NULL
+69,EAID,"Foreign Assistance","Use for economic and technical assistance provided by government organizations, institutions, and private individuals.","economic affairs",subject,EAIR
+70,EAIR,"Aeronautics and Aviation","Use for matters pertaining to aircraft, aviation, aeronautics, aeronautical equipment industries, commercial and private (general) avaiation and air operations.","economic affairs",subject,NULL
+71,EALR,"Economic Alert List Reporting","Use for all communications pertinent to the collection guidance provided in the latest Economic Alert List.","economic affairs",subject,NULL
+72,ECEM,"Chemical Industry and Chemical Products","Use for papers pertaining to the chemical industry and chemical products, except metal elements and petroleum.","economic affairs",subject,ECIN
+73,ECIN,"Economic Integration and Collaboration","Use for papers on economic integration or collaboration movements, including common markets and free trade associations, among nations on regional or multinational bases.","economic affairs",subject,NULL
+74,ECON,"Economic Conditions, Trends, and Potential","Use for assessments of economic conditions, trends, and potential in general.","economic affairs",subject,NULL
+75,ECRE,"Construction, Repair, and Expansion","Use for the construction, expansion, and repair of industrial or other commercial facilities, including housing and construction starts and data, construction of industrial plants, dwellings, sewer projects, flood control and irrigation projects, dams and water concersation or supply projects.","economic affairs",subject,NULL
+76,ECRP,"Scheduled Reporting","To be used on all CERP Reports. The ECRP indicator alone is sufficient; the more specific economic subject TAGS should not be used.","economic affairs",subject,NULL
+77,ECSM,"Consumer Affairs","Use for all matters related to consumer affairs, including product labeling, product safety (such as recall and hazard notices), consumer credit, and undesirable marketing practices.","economic affairs",subject,NULL
+78,EEWT,"East-West Trade","Use for papers on policies, planning, or programs pertaining to trade and commercial relations with the socialist nations.","economic affairs",subject,NULL
+79,EFIN,"Financial and Monetary Affairs","Use for materials pertaining to the domestic and international financial and monetary affairs and activities of governments and private institutions, except foreign economic assistance for which use E// EAID","economic affairs",subject,NULL
+80,EFIS,Fishing,"Use for papers dealing with any aspect of the fishing industry or sport fishing.","economic affairs",subject,NULL
+81,EGEN,"Economics -- General","To be used when the more specific indicators above-listed do not appear applicable.","economic affairs",subject,NULL
+82,EIND,"Commerce, Industry, and Industrial Products","Use for communications pertaining to the organization of commercial and industrial enterprises, operational techniques and practices. Covers companies, trusts, cooperatives, factories, and other types of firms, ownership, industrial property, business management, and control procedures, as well as methods used for product promotion, marketing, and distribution.","economic affairs",subject,NULL
+83,EINV,Investments,"Use for communications pertaining to international investment policy and planning.","economic affairs",subject,NULL
+84,ELAB,"Labor and Manpower","Use for papers on all aspects of labor and manpower.","economic affairs",subject,NULL
+85,ELTN,"Land Transportation","Use for papers dealing with transportation other than air transportation and water transportation.","economic affairs",subject,NULL
+86,EMIN,"Metals and Minerals","Use for papers dealing with metallic and non-metallic minerals, metals, and processing facilities.","economic affairs",subject,NULL
+87,ENRG,Energy,"Use for documents dealing with energy sources, energy conversion, and electric power.","economic affairs",subject,NULL
+88,EPAP,"Plant, Animal, and Wood Products","Use for processed and unprocessed plant, animal, and wood products and production or processing facilities.","economic affairs",subject,NULL
+89,EQIP,"Equipment and Machinery","Use for papers dealing with equipment and machinery (with the exception of communications equipment, for which use ETEL), including facilities for the production of such equipment.","economic affairs",subject,NULL
+90,ESTC,"Strategic Trade Controls","Covers all matters related to the control of exports for economic warfare or economic defense purposes.","economic affairs",subject,NULL
+91,ETEL,"Telecommunications and Postal Systems and Equipment","Use for communications concerning electrical, eletromagnetic, electroacoustical, and postal communications systems and equipment of a country or region.","economic affairs",subject,NULL
+92,ETRD,"Foreign Trade","Use for communications of s ubstantive nature relating to trade.","economic affairs",subject,NULL
+93,ETRN,"Transportation Policies","Use for matters involving the overall transportation systems of a country or region and the regime's policies and programs toward the development of a coordinated transportation network.","economic affairs",subject,NULL
+94,EWWT,"Waterborne Transportation","Use for materials dealing with the movement of cargo and passengers by waterborne vehicles over maritime and inland waterways","economic affairs",subject,NULL
+96,MARR,"Military and Defense Arrangements","Use for papers dealing with collective security and inter-national military cooperation.","military and defense affairs",subject,NULL
+97,MASS,"Military Assistance and Sales","Use for all aspects of military assistance","military and defense affairs",subject,NULL
+98,MILI,"Military -- General","Use when (1) the more specific military TAGS do not apply; and (2) it is desired to show military interest or implications in a subject covered by another TAG.","military and defense affairs",subject,NULL
+99,MMOL,"Material, Ordnance, and Logistics","Use for military equipment, supplies, ordnance and maintenance, and supply operations and procedures.","military and defense affairs",subject,NULL
+100,MNUC,"Military Nuclear Applications","Use for miliary-related atomic energy and nuclear power matters","military and defense affairs",subject,NULL
+101,MOPS,"Military Operations","Use for declared and undeclared war involving two or more nations and for major armed conflict within a single country ro suppress rebellion or insurgency.","military and defense affairs",subject,NULL
+102,MORG,"Military Organization and Structure","Use for papers pertaining to the general command structure, organization and composition of the armed forced of a country. Also covers morale and discipline, military dependents, housing, and military training.","military and defense affairs",subject,NULL
+103,MPOL,"Military Policy and Planning","Use for matters pertaining to a country's general military policy, except arms control and disarmament, which are covered by PARM.","military and defense affairs",subject,NULL
+104,OCON,"Conferences and Meetings","Includes administrative and social arrangements for conferences and meetings",operations,subject,NULL
+105,OEXC,"Educational and Cultural Exchange Operations","Use for administrative and operational aspects of education and cultural exchange programs; includes funding, nominations, selection, travel, and other arrangements.",operations,subject,NULL
+106,OGEN,"Operations -- General","Use for operational messages for which no more specific Operations TAG is available including assistance to non-U.S. citizens",operations,subject,NULL
+107,OREP,"U.S. Congressional Travel","Includes notification and arrangements for visits by Members of Congress and congressional delegations, or congressional staff members.",operations,subject,NULL
+108,OSCI,"Science Grants","Use for messages concerning the Special Foreign Currency program and other science research grant programs adnimistered by NSF, HEW, DOT, and other agencies.",operations,subject,NULL
+109,OTRA,"Travel and Visits","Includes notification and arrangements for visits and travel of persons, delegations, and missions, except messages for which more specific TAGS (OVIP, OREP and BTRA) are applicable; includes hotel accommodations.",operations,subject,NULL
+110,OVIP,"VIP Travel Arrangements","Use for notification of, and arrangements for, visits and travel of high-ranking U.S. government and foreign officials, including legislators, and prominent U.S. and foreign private citizens; not for use on substantive messages",operations,subject,NULL
+111,PARM,"Arms Control and Disarmament","Use for all aspects of arms control and disarmament.","political affairs",subject,NULL
+112,PBOR,"Boundary and Sovereignty Claims","Use for papers dealing with a stat'e territory and sovereignty claims.","political affairs",subject,NULL
+113,PDEV,"National Development","Use for matters pertaining to a stat's transition from dependency to independent status","political affairs",subject,NULL
+114,PDIP,"Diplomatic and Consular Representation","Use for matters pertaining to the ceremonial and protocol aspects of foreign relations.","political affairs",subject,NULL
+115,PGOV,Government,"Use for papers pertaining to central and local governments, the government of dependencies, colonies, or occupied area.","political affairs",subject,NULL
+116,PINR,Intelligence,"Use for papers dealing with al aspects of intelligence.","political affairs",subject,NULL
+117,PINS,"Internal Security","Use for papers dealing with a regime's stability, control, or efforts to maintain itself in power, as well as activities and efforts to disrupt or overthrow an established regime by other than normal political activity.","political affairs",subject,NULL
+118,PINT,"Internal Political Affairs","Use for all aspects of a country's domestic politics","political affairs",subject,NULL
+119,PLOS,"Law of the Sea Affairs","Use for all matters pertaining to the UN Conference on the Law of the Sea and papers pertaining to territorial waters and sea limits, contnental shelf, the seabed, and rights and interests of states pertaining to them.","political affairs",subject,NULL
+120,PORG,"Policy Relations with International Organizations","Use for papers dealing with a country's relations with private and governmental international organizations, except economic integration policy and collective security policy, which are included under ECIN and MARR, respectively.","political affairs",subject,NULL
+121,PORS,"Public Order and Safety","Use for papers dealing with organizations concerned with the protection of life and property.","political affairs",subject,NULL
+122,PPDC,"Presidents Diplomatic Correspondence","Use on all messages that transmit the tests of messages to or from the President or Vice President of the United States. Generally these are congratulatory, ceremonial, or anniversary diplomatic messages.","political affairs",subject,NULL
+123,PROP,"Propaganda and Psychological Operations","Use for all aspects of propaganda operations, including policies, organizations, targets, and media usage, as well as antipropaganda measures","political affairs",subject,NULL
+125,PSDC,"Secretary's Diplomatic Correspondence","Use on all messages that transmit the text of diplomatic messages to or from the Secretary of State, Acting Secretary, or principal officers of the Department.","political affairs",subject,NULL
+126,SCUL,"Cultural Affairs","Use for papers of a substantive nature dealing with cultural history, cultural property, and cultural presentations.","social affairs",subject,NULL
+127,SEDU,Education,"Use for documents treating educational systems and institutions.","social affairs",subject,NULL
+128,SENV,Environment,"Use for messages dealing with the preservation or deterioration of environmental quality.","social affairs",subject,NULL
+129,SGEN,"Social Affairs -- General","To be used only when the more specific social TAGS do not appear applicable","social affairs",subject,NULL
+130,SHUM,"Human Rights","Use for documents concerning the rights attributable to human beings.","social affairs",subject,NULL
+131,SNAR,Narcotics,"Use for all aspects of the narcotics and drug abuse problem.","social affairs",subject,NULL
+132,SOCI,"Social Conditions","Use for papers treating social conditions in a country or locality.","social affairs",subject,NULL
+133,SOPN,"Public Opinion and Information","Use for planned efforts by governmental and private organizations to kep the public informed.","social affairs",subject,NULL
+134,SPOP,Population,"Use for all papers concerning population matters.","social affairs",subject,NULL
+135,SREF,Refugees,"Use for all aspects of the refugee situation.","social affairs",subject,NULL
+136,SWEL,"Public Welfare","Use for papers concerning public health and welfare.","social affairs",subject,NULL
+137,TATT,"Technical Assistance and Technology Transfer","Use for all matters relating to policies and activities of governmental and private organizations involved in technical assistance activities and the transfer of technology","technology and science",subject,NULL
+138,TBIO,"Biological and Medical Science","Use for papers dealing with all aspects of biological and medical services and related disciplines","technology and science",subject,NULL
+139,TECH,Technology,"Use for papers pertaining to policies and activities of governmental and private organizations involved in technology.","technology and science",subject,NULL
+140,TGEN,"Technology and Science -- General","Use only when more specific indicators do not appear applicable or when it is desired to indicate a relationship between another caption and technology in general","technology and science",subject,NULL
+141,TOCY,Oceanography,"Use for all matters relating to the marine sciences, including physical, chemical, geological, biological, and geophysical oceanography and related research, technology, and services.","technology and science",subject,NULL
+142,TPHY,"Physical Sciences","Use for all aspects of the physical sciences","technology and science",subject,NULL
+143,TSPA,"Space Activities","Use for papers on all aspects of space activities.","technology and science",subject,NULL
+145,ADB,"Asian Development Bank",NULL,NULL,organization,NULL
+146,AFCAC,"African Civil Aviation Commission",NULL,NULL,organization,NULL
+147,AFDB,"African Development Bank",NULL,NULL,organization,NULL
+148,AIFLD,"American Institute for Free Labor Development",NULL,NULL,organization,NULL
+149,AIOEC,"Association of Iron Ore Exporting Countries",NULL,NULL,organization,NULL
+150,ANRPC,"Association of Natural Rubber Producing Countries",NULL,NULL,organization,NULL
+152,ANTARCTICA,"Antarctic Treaty, including Consultative Meetings",NULL,NULL,organization,NULL
+153,ANZUS,"Australia, New Zealand, and United States Council",NULL,NULL,organization,NULL
+154,ASEAN,"Association of South East Asian Nations",NULL,NULL,organization,NULL
+155,BIE,"Bureau of International Exhibitions",NULL,NULL,organization,NULL
+156,C-20,"Committee of 20 for International Monetary Reform (IMF)",NULL,NULL,organization,NULL
+157,CAB,"Civil Aviation Board",NULL,NULL,organization,NULL
+158,CARICOM,"Caribbean Community/Caribbean Common Market",NULL,NULL,organization,NULL
+159,CCC-3,"Customs Cooperation Council",NULL,NULL,organization,NULL
+160,CCD,"Conference of the Committee on Disarmament",NULL,NULL,organization,NULL
+161,CCMS,"Committee on the Challenges of Modern Society",NULL,NULL,organization,NULL
+162,CDB,"Caribbean Development Bank",NULL,NULL,organization,NULL
+163,CENTO,"Central Treaty Organization",NULL,NULL,organization,NULL
+164,CHMC,"Caribben Health Ministers Conference",NULL,NULL,organization,NULL
+165,CIAP,"Inter-American Committee on the Alliance for Progress",NULL,NULL,organization,NULL
+166,CINTERFOR,"Inter-American Research and Documentation Center on Vocational Training",NULL,NULL,organization,NULL
+167,CIPEC,"Intergovernmental Council of Copper Exporting Countries",NULL,NULL,organization,NULL
+168,CITEL,"Inter-American Telecommunications Commission",NULL,NULL,organization,NULL
+169,COCOM,"Coordinating Committee on Export Controls",NULL,NULL,organization,NULL
+170,COE,"Council of Europe",NULL,NULL,organization,NULL
+171,COMECON,"Council of Mutual Economic Assistance",NULL,NULL,organization,NULL
+172,CSCE,"Conference on Secutiry and Cooperation in Europe",NULL,NULL,organization,NULL
+173,DAC,"Development Assistance Committee (OECD)",NULL,NULL,organization,NULL
+174,DEA,"Drug Enforement Agency",NULL,NULL,organization,NULL
+175,DPC,"Defense Planning Committee (NATO)",NULL,NULL,organization,NULL
+176,ECA,"UN Economic Commission for Africa",NULL,NULL,organization,NULL
+177,ECAC,"European Committee on Civil Aviation",NULL,NULL,organization,NULL
+178,ECE,"UN Economic Commission for Europe",NULL,NULL,organization,NULL
+179,ECG,"Energy Coordinating Group",NULL,NULL,organization,NULL
+180,ECLA,"UN Economic Commission for Latin America",NULL,NULL,organization,NULL
+181,ECOSOC,"UN Economic and Social Council",NULL,NULL,organization,NULL
+182,ECWA,"Economic Commission for Western Asia",NULL,NULL,organization,NULL
+183,EEC,"European Common Market (European Communities)",NULL,NULL,organization,NULL
+184,EFTA,"European Free Trade Association",NULL,NULL,organization,NULL
+185,EPA,"Environmental Protection Agency",NULL,NULL,organization,NULL
+186,ERDA,"Energy Research and Development Administration",NULL,NULL,organization,NULL
+187,ESCAP,"UN Economic and Social Commission for Asia and the Pacific (formerly ECAFE)",NULL,NULL,organization,NULL
+188,FAO,"Food and Agriculture Organization (UN)",NULL,NULL,organization,NULL
+189,G-10,"Group of Ten",NULL,NULL,organization,NULL
+190,GATT,"General Agreement of Tariffs and Trade",NULL,NULL,organization,NULL
+191,HABITAT,"UN Conference on Human Settlements",NULL,NULL,organization,NULL
+192,IA-ECOSOC,"Inter-American Economic and Social Council (not part of UN ECOSOC)",NULL,NULL,organization,NULL
+193,IACI,"Inter-American Children's Institute",NULL,NULL,organization,NULL
+194,IACW,"Inter-American Commission of Women",NULL,NULL,organization,NULL
+195,IAEA,"International Atomic Energy Agency",NULL,NULL,organization,NULL
+196,IARC,"International Agency for Research on Cancer",NULL,NULL,organization,NULL
+197,IATA,"International Air Transport Association",NULL,NULL,organization,NULL
+198,IATTC,"Inter-American Tropical Tuna Commission",NULL,NULL,organization,NULL
+199,IBA,"International Bauxite Association",NULL,NULL,organization,NULL
+200,IBRD,"International Bank for Reconstruction and Development",NULL,NULL,organization,NULL
+201,ICAC,"International Cotton Advisory Committee",NULL,NULL,organization,NULL
+202,ICAO,"International Civil Aviation Organization",NULL,NULL,organization,NULL
+203,ICEM,"Intergovernmental Committee for European Migration",NULL,NULL,organization,NULL
+204,ICES,"International Council for the Exploration of the Seas",NULL,NULL,organization,NULL
+205,ICFTU,"International Confederation of Free Trade Unions",NULL,NULL,organization,NULL
+206,ICJ,"International Court of Justice",NULL,NULL,organization,NULL
+207,ICJU,"International Commission of Jurists",NULL,NULL,organization,NULL
+208,ICNAF,"International Commission for the Northwest Atlantic Fisheries",NULL,NULL,organization,NULL
+209,ICO,"International Coffee Organization",NULL,NULL,organization,NULL
+210,ICRC,"International Committee of the Red Cross",NULL,NULL,organization,NULL
+211,ICSEM,"International Council for the Scientific Exploration of the Mediterranean",NULL,NULL,organization,NULL
+212,IDB,"Inter-American Development Bank",NULL,NULL,organization,NULL
+213,IHO,"International Hydrographic Organization",NULL,NULL,organization,NULL
+214,IIAS,"International Institute of Administrative Sciences",NULL,NULL,organization,NULL
+215,ILC,"International Law Commission",NULL,NULL,organization,NULL
+216,ILO,"International Labor Organization",NULL,NULL,organization,NULL
+217,ILZSG,"International Lead and Zinc Study Group",NULL,NULL,organization,NULL
+218,IMCD,"Intergovernmental Maritime Consultative Organization",NULL,NULL,organization,NULL
+219,IMF,"International Monetary Fund",NULL,NULL,organization,NULL
+220,INF,"Intergovernmental Bureau for Informatics",NULL,NULL,organization,NULL
+221,INPFC,"International North Pacific Fisheries Commission",NULL,NULL,organization,NULL
+222,INTELSAT,"International Telecommunications Satellite Consortium",NULL,NULL,organization,NULL
+223,INTERPOL,"International Criminal Police Organization",NULL,NULL,organization,NULL
+224,IOC,"Intergovernmental Oceanographic Commission",NULL,NULL,organization,NULL
+225,IOCARIB,"IOC Association for the Caribbean and Adjacent Regions",NULL,NULL,organization,NULL
+226,IOOC,"International Olive Oil Council",NULL,NULL,organization,NULL
+227,IRSG,"International Rubber Study Group",NULL,NULL,organization,NULL
+228,ISSA,"International Social Security Association",NULL,NULL,organization,NULL
+229,ISTA,"International Seed Testing Association",NULL,NULL,organization,NULL
+230,ISVS,"International Secretariat for Volunteer Services",NULL,NULL,organization,NULL
+231,ITC,"International Tin Council",NULL,NULL,organization,NULL
+232,ITU,"International Telecommunications Union",NULL,NULL,organization,NULL
+233,IWC-1,"International Whaling Commission",NULL,NULL,organization,NULL
+234,IWC-2,"International Wheat Council",NULL,NULL,organization,NULL
+235,IWY,"International Women's Year",NULL,NULL,organization,NULL
+236,JCC,"Joint Commercial Commissions",NULL,NULL,organization,NULL
+237,LAFTA,"Latin American Free Trade Association",NULL,NULL,organization,NULL
+238,LOS,"UN Law of the Sea Conference",NULL,NULL,organization,NULL
+239,MARAD,"U.S. Maritime Administration",NULL,NULL,organization,NULL
+240,MBFR,"Mutual and Balances Force Reduction Talks",NULL,NULL,organization,NULL
+241,MSG,"Marine Security Guards",NULL,NULL,organization,NULL
+242,MTN,"Multilateral Trade Negotiations",NULL,NULL,organization,NULL
+243,NAC,"North Atlantic Council (NATO)",NULL,NULL,organization,NULL
+244,NASA,"National Aeronautics and Space Administration",NULL,NULL,organization,NULL
+245,NATO,"North Atlantic Tready Organization",NULL,NULL,organization,NULL
+246,NOAA,"National Oceanographic and Atmospheric Agency",NULL,NULL,organization,NULL
+247,NPG,"Nuclear Planning Group (NATO)",NULL,NULL,organization,NULL
+248,NRC,"Nuclear Regulatory Commission",NULL,NULL,organization,NULL
+249,NSF,"National Science Foundation",NULL,NULL,organization,NULL
+250,NSU,"National Support Unit",NULL,NULL,organization,NULL
+251,OAB,"African Wool Producers Association",NULL,NULL,organization,NULL
+252,OAPEC,"Organization of Arab Petroleum Explorting Countries",NULL,NULL,organization,NULL
+253,OAS,"Organization of American States",NULL,NULL,organization,NULL
+254,OAU,"Organization of African Unity",NULL,NULL,organization,NULL
+255,OECD,"Organization for Economic Cooperation and Development",NULL,NULL,organization,NULL
+256,OPEC,"Organization of Petroleum Exporting Countries",NULL,NULL,organization,NULL
+257,OPIC,"Overseas Private Investment Corporation",NULL,NULL,organization,NULL
+258,PAHC,"Pan-American Highway Congress",NULL,NULL,organization,NULL
+259,PAHO,"Pan-American Health Association",NULL,NULL,organization,NULL
+260,PAIGH,"Pan-American Institute of Geography and History",NULL,NULL,organization,NULL
+261,PBOS,"Planning Board on Ocean Shipping in NATO",NULL,NULL,organization,NULL
+262,PIANC,"Permanent International Association of Navigation Congresses",NULL,NULL,organization,NULL
+263,PLO,"Palestine Liberation Organization",NULL,NULL,organization,NULL
+264,PTA,"Primary Tungsten Association",NULL,NULL,organization,NULL
+265,ROMCEN,"International Center for the Preservation and Restoration of Cultural Property (Rome Center)",NULL,NULL,organization,NULL
+266,"SALT TALKS","U.S. Delegation to the Strategic Arms Limitation Talks",NULL,NULL,organization,NULL
+267,SEALPA,"South Asia Lumber Producers Association",NULL,NULL,organization,NULL
+268,SEATO,"Southeast Asia Treaty",NULL,NULL,organization,NULL
+269,UNCITRAL,"Un Commission on Internatonal Trade Law",NULL,NULL,organization,NULL
+270,UNCND,"UN Commission on Narcotic Drugs",NULL,NULL,organization,NULL
+271,UNCSW,"UN Commission on the Status of Women",NULL,NULL,organization,NULL
+272,UNDC,"UN Disarmament Commission",NULL,NULL,organization,NULL
+273,UNCTAD,"UN Conference on Trade and Development",NULL,NULL,organization,NULL
+274,UNDP,"UN Development Program",NULL,NULL,organization,NULL
+275,UNEP,"UN Environmental Program",NULL,NULL,"organization ",NULL
+276,UNESCO,"UN Educational, Scientific and Cultural Organization",NULL,NULL,organization,NULL
+277,UNFDAC,"UN Fund for Drug Abuse Control",NULL,NULL,organization,NULL
+278,UNFICYP,"UN Forces in Cyprus",NULL,NULL,organization,NULL
+279,UNFPA,"UN Fund for Population Activities",NULL,NULL,organization,NULL
+280,UNGA,"UN General Assembly",NULL,NULL,organization,NULL
+281,UNHBP,"UNECOSOC Committee on Housing, Building and Planning",NULL,NULL,organization,NULL
+282,UNHCR,"UN High Commissioner for Refugees",NULL,NULL,organization,NULL
+283,UNHRC,"UN Human Rights Commission",NULL,NULL,organization,NULL
+284,UNICEF,"UN Children's Fund",NULL,NULL,organization,NULL
+285,UNIDO,"UN Industrial Development Organization",NULL,NULL,organization,NULL
+286,UNIDROIT,"International Institute for the Unification of Private Law",NULL,NULL,organization,NULL
+287,UNITAR,"UN Institute for Training and Research",NULL,NULL,organization,NULL
+288,UNPOC,"UN Population Commission",NULL,NULL,organization,NULL
+289,UNRWA,"UN Relief and Works Agency for Palestine Refugees",NULL,NULL,organization,NULL
+290,UNSC,"UN Security Council",NULL,NULL,organization,NULL
+291,UNSDC,"UN Social Development Commission",NULL,NULL,organization,NULL
+292,UNSTC,"UN Statistical Commission",NULL,NULL,organization,NULL
+293,UNTC,"UN Trusteeship Council",NULL,NULL,organization,NULL
+294,UNV,"UN Volunteers",NULL,NULL,organization,NULL
+295,UPU,"Universal Postal Union",NULL,NULL,organization,NULL
+296,USTS,"U.S. Travel Service",NULL,NULL,organization,NULL
+297,USEGJC,"US-Egypt Joint Cooperation Commission",NULL,NULL,organization,NULL
+298,USINJC,"US-India Joint Commission on Economic, Scientific, Educational and Cultural Cooperation",NULL,NULL,organization,NULL
+299,USIRJC,"US-Iran Join Commission on Economic Cooperation",NULL,NULL,organization,NULL
+300,USISJC,"US-Israel Joint Committee for Intestment and Trade",NULL,NULL,organization,NULL
+301,USJOJC,"US-Jordan Joint Commission",NULL,NULL,organization,NULL
+302,USSAEC,"US-Saudi Arabia Economic Commission",NULL,NULL,organization,NULL
+303,USSASC,"US-Saudi Arabia Security Commission",NULL,NULL,organization,NULL
+304,WARC,"World Administrative Radio Conference",NULL,NULL,organization,NULL
+305,WEO,"Western European and Other Group",NULL,NULL,organization,NULL
+306,WFC,"World Food Council",NULL,NULL,organization,NULL
+307,WFP,"World Food Program",NULL,NULL,organization,NULL
+308,WHO,"World Health Organization",NULL,NULL,organization,NULL
+309,WIPO,"World Intellectual Property Organization",NULL,NULL,organization,NULL
+310,WMO,"World Meteorological Organization",NULL,NULL,organization,NULL
+311,WTO,"Warsaw Pact Organization",NULL,NULL,organization,NULL
+312,XMB,"Export-Import Bank of the United States",NULL,NULL,organization,NULL
+313,XA,Africa,NULL,"world region",geographic,NULL
+314,XB,Asia,NULL,"world region",geographic,NULL
+315,XC,"Southeast Asia",NULL,"world region",geographic,NULL
+316,XD,"South Asia",NULL,"world region",geographic,NULL
+317,XE,"Far East",NULL,"world region",geographic,NULL
+318,XF,"Middle East",NULL,"world region",geographic,NULL
+319,XG,Europe,NULL,"world region",geographic,NULL
+320,XH,"Eastern Europe",NULL,"world region",geographic,NULL
+321,XI,"North Africa",NULL,"world region",geographic,NULL
+322,XJ,"Africa South of the Sahara",NULL,"world region",geographic,NULL
+323,XK,"Central America",NULL,"world region",geographic,NULL
+324,XL,Caribbean,NULL,"world region",geographic,NULL
+325,XM,"Latin America",NULL,"world region",geographic,NULL
+326,XN,"Atlantic Ocean Area",NULL,"world region",geographic,NULL
+327,XO,"Indian Ocean Area",NULL,"world region",geographic,NULL
+328,XP,"Pacific Ocean Area",NULL,"world region",geographic,NULL
+329,XQ,"Arctic Ocean Area",NULL,"world region",geographic,NULL
+330,XR,"South America",NULL,"world region",geographic,NULL
+331,XS,"North America",NULL,"world region",geographic,NULL
+332,XT,"Western Europe",NULL,"world region",geographic,NULL
+333,XU,Australasia,NULL,"world region",geographic,NULL
+334,XV,Antarctica,NULL,"world region",geographic,NULL
+335,XW,"East Africa",NULL,"world region",geographic,NULL
+336,XX,Worldwide,NULL,"world region",geographic,NULL
+337,XY,"West Africa",NULL,"world region",geographic,NULL
+338,XZ,Scandinavia,NULL,"world region",geographic,NULL
+339,ZM,"Mediterranean Sea",NULL,"world region",geographic,NULL
+340,ZN,"North Pacific Area",NULL,"world region",geographic,NULL
+341,ZP,"Persian Gulf Area",NULL,"world region",geographic,NULL
+342,AF,Afghanistan,NULL,country,geographic,NULL
+343,AL,Albania,NULL,country,geographic,NULL
+344,AG,Algeria,NULL,country,geographic,NULL
+345,AQ,"American Samoa",NULL,country,geographic,NULL
+346,AN,Andorra,NULL,country,geographic,NULL
+347,AO,Angola,NULL,country,geographic,NULL
+348,AV,Anguilla,NULL,country,geographic,NULL
+349,AC,Antigua,NULL,country,geographic,NULL
+350,AR,Argentina,NULL,country,geographic,NULL
+351,AT,"Ashmore and Cartier Islands",NULL,country,geographic,NULL
+352,AS,Australia,NULL,country,geographic,NULL
+353,AU,Austria,NULL,country,geographic,NULL
+354,BF,Bahamas,NULL,country,geographic,NULL
+355,BA,Bahrain,NULL,country,geographic,NULL
+356,BG,Bangladesh,NULL,country,geographic,NULL
+357,BB,Barbados,NULL,country,geographic,NULL
+358,BE,Belgium,NULL,country,geographic,NULL
+359,BH,Belize,NULL,country,geographic,NULL
+360,DM,"Benin (People's Republic of)",NULL,country,geographic,NULL
+361,BD,Bermuda,NULL,country,geographic,NULL
+362,BT,Bhutan,NULL,country,geographic,NULL
+363,BL,Bolivia,NULL,country,geographic,NULL
+364,BC,Botswana,NULL,country,geographic,NULL
+365,BV,"Bouvet Island",NULL,country,geographic,NULL
+366,BR,Brazil,NULL,country,geographic,NULL
+367,IO,"British Indian Ocean Territory",NULL,country,geographic,NULL
+368,BP,"British Solomon Islands",NULL,country,geographic,NULL
+369,VI,"British Virgin Islands",NULL,country,geographic,NULL
+370,BW,"British West Indies",NULL,country,geographic,NULL
+371,BX,Brunei,NULL,country,geographic,NULL
+372,BU,Bulgaria,NULL,country,geographic,NULL
+373,BM,Burma,NULL,country,geographic,NULL
+374,BY,Burundi,NULL,country,geographic,NULL
+375,CB,"Cambodia (Khmer Republic)",NULL,country,geographic,NULL
+376,CM,Cameroon,NULL,country,geographic,NULL
+377,CA,Canada,NULL,country,geographic,NULL
+378,PQ,"Canal Zone",NULL,country,geographic,NULL
+379,EQ,"Canton and Enderbury Islands",NULL,country,geographic,NULL
+380,CV,"Cape Verde Islands",NULL,country,geographic,NULL
+381,CJ,"Cayman Islands",NULL,country,geographic,NULL
+382,CT,"Central African Republic",NULL,country,geographic,NULL
+383,CE,"Ceylon (Sri Lanka)",NULL,country,geographic,NULL
+384,CD,Chad,NULL,country,geographic,NULL
+385,CI,Chile,NULL,country,geographic,NULL
+386,CH,"China (Mainland)",NULL,country,geographic,NULL
+387,TW,"China (Taiwan)",NULL,country,geographic,NULL
+388,KT,"Christmas Island",NULL,country,geographic,NULL
+389,CK,"Cocos Island",NULL,country,geographic,NULL
+390,CO,Colombia,NULL,country,geographic,NULL
+391,CN,"Comoro Islands",NULL,country,geographic,NULL
+392,CF,"Congo (Brazzaville)",NULL,country,geographic,NULL
+393,CW,"Cook Islands",NULL,country,geographic,NULL
+394,CR,"Coral Sea Islands Territory",NULL,country,geographic,NULL
+395,CS,"Costa Rica",NULL,country,geographic,NULL
+396,CU,Cuba,NULL,country,geographic,NULL
+397,CZ,Czechoslovakia,NULL,country,geographic,NULL
+398,DA,Denmark,NULL,country,geographic,NULL
+399,DO,Dominica,NULL,country,geographic,NULL
+400,DR,"Dominican Republic",NULL,country,geographic,NULL
+401,EC,Ecuador,NULL,country,geographic,NULL
+402,EG,Egypt,NULL,country,geographic,NULL
+403,ES,"El Salvador",NULL,country,geographic,NULL
+404,EK,"Equatorial Guinea",NULL,country,geographic,NULL
+405,ET,Ethiopia,NULL,country,geographic,NULL
+406,FO,"Faeroe Islands",NULL,country,geographic,NULL
+407,FA,"Falkland Islands",NULL,country,geographic,NULL
+408,FJ,Fiji,NULL,country,geographic,NULL
+409,FI,Finland,NULL,country,geographic,NULL
+410,FR,France,NULL,country,geographic,NULL
+411,FG,"French Guiana",NULL,country,geographic,NULL
+412,FP,"French Polynesia",NULL,country,geographic,NULL
+413,FT,"French Territory of Afars and Issas",NULL,country,geographic,NULL
+414,FW,"French West Indies",NULL,country,geographic,NULL
+415,GB,Gabon,NULL,country,geographic,NULL
+416,GA,Gambia,NULL,country,geographic,NULL
+417,GZ,"Gaza Strip",NULL,country,geographic,NULL
+418,GW,"Germany (West)",NULL,country,geographic,NULL
+419,GE,"Germany (East)",NULL,country,geographic,NULL
+420,GH,Ghana,NULL,country,geographic,NULL
+421,GI,Gibraltar,NULL,country,geographic,NULL
+422,GN,"Gilbert Islands",NULL,country,geographic,NULL
+423,GR,Greece,NULL,country,geographic,NULL
+424,GL,Greenland,NULL,country,geographic,NULL
+425,GJ,Grenada,NULL,country,geographic,NULL
+426,GP,Guadeloupe,NULL,country,geographic,NULL
+427,GQ,Guam,NULL,country,geographic,NULL
+428,GT,Guatemala,NULL,country,geographic,NULL
+429,GV,Guinea,NULL,country,geographic,NULL
+430,HA,Haiti,NULL,country,geographic,NULL
+431,GY,Guyana,NULL,country,geographic,NULL
+432,PU,"Guinea Bissau",NULL,country,geographic,NULL
+433,HM,"Heard and McDonald Islands",NULL,country,geographic,NULL
+434,HO,Honduras,NULL,country,geographic,NULL
+435,HK,"Hong Kong",NULL,country,geographic,NULL
+436,HU,Hungary,NULL,country,geographic,NULL
+437,IC,Iceland,NULL,country,geographic,NULL
+438,IN,India,NULL,country,geographic,NULL
+439,ID,Indonesia,NULL,country,geographic,NULL
+440,IR,Iran,NULL,country,geographic,NULL
+441,IZ,Iraq,NULL,country,geographic,NULL
+442,IY,"Iraq-Saudi Arabia Neutral Zone",NULL,country,geographic,NULL
+443,EI,Ireland,NULL,country,geographic,NULL
+444,IS,Israel,NULL,country,geographic,NULL
+445,IT,Italy,NULL,country,geographic,NULL
+446,IV,"Ivory Coast",NULL,country,geographic,NULL
+447,JM,Jamaica,NULL,country,geographic,NULL
+448,JN,"Jan Mayen",NULL,country,geographic,NULL
+449,JA,Japan,,country,geographic,NULL
+450,JQ,"Johnston Atoll",NULL,country,geographic,NULL
+451,JO,Jordan,NULL,country,geographic,NULL
+452,KE,Kenya,NULL,country,geographic,NULL
+453,KN,"Korea (North)",NULL,country,geographic,NULL
+454,KS,"Korea (South)",NULL,country,geographic,NULL
+455,KU,Kuwait,NULL,country,geographic,NULL
+456,LA,Laos,NULL,country,geographic,NULL
+457,LE,Lebanon,NULL,country,geographic,NULL
+458,LT,Lesotho,NULL,country,geographic,NULL
+459,LI,Liberia,NULL,country,geographic,NULL
+460,LY,Libya,NULL,country,geographic,NULL
+461,LS,Liechtenstein,NULL,country,geographic,NULL
+462,CL,"Line Islands",NULL,country,geographic,NULL
+463,LU,Luxembourg,NULL,country,geographic,NULL
+464,MC,Macao,NULL,country,geographic,NULL
+465,MA,"Madagascar (Malagasy Republic)",NULL,country,geographic,NULL
+466,MI,Malawi,NULL,country,geographic,NULL
+467,MY,Malaysia,NULL,country,geographic,NULL
+468,MV,Maldives,NULL,country,geographic,NULL
+469,ML,Mali,NULL,country,geographic,NULL
+470,MT,Malta,NULL,country,geographic,NULL
+471,MB,Martinique,NULL,country,geographic,NULL
+472,MR,Mauritania,NULL,country,geographic,NULL
+473,MP,Mauritius,NULL,country,geographic,NULL
+474,MX,Mexico,NULL,country,geographic,NULL
+475,MQ,"Midway Islands",NULL,country,geographic,NULL
+476,MN,Monaco,NULL,country,geographic,NULL
+477,MG,Mongolia,NULL,country,geographic,NULL
+478,MH,Montserrat,NULL,country,geographic,NULL
+479,MO,Morocco,NULL,country,geographic,NULL
+480,MZ,Mozambique,NULL,country,geographic,NULL
+481,NR,Nauru,NULL,country,geographic,NULL
+482,NP,Nepal,NULL,country,geographic,NULL
+483,NL,Netherlands,NULL,country,geographic,NULL
+484,NA,"Netherlands Antilles",NULL,country,geographic,NULL
+485,NC,"New Caledonia",NULL,country,geographic,NULL
+486,NH,"New Hebrides",NULL,country,geographic,NULL
+487,NZ,"New Zealand",NULL,country,geographic,NULL
+488,NU,Nicaragua,NULL,country,geographic,NULL
+489,NG,Niger,NULL,country,geographic,NULL
+490,NI,Nigeria,NULL,country,geographic,NULL
+491,NE,Niue,NULL,country,geographic,NULL
+492,NF,"Norfolk Island",NULL,country,geographic,NULL
+493,MU,Oman,NULL,country,geographic,NULL
+494,PK,Pakistan,NULL,country,geographic,NULL
+495,PN,Panama,NULL,country,geographic,NULL
+496,PP,"Papua New Guinea",NULL,country,geographic,NULL
+497,PF,"Paracel Islands",NULL,country,geographic,NULL
+498,PA,Paraguay,NULL,country,geographic,NULL
+499,PE,Peru,NULL,country,geographic,NULL
+500,RP,Philippines,NULL,country,geographic,NULL
+501,PC,"Pitcairn Island",NULL,country,geographic,NULL
+502,PL,Poland,NULL,country,geographic,NULL
+503,PO,Portugal,NULL,country,geographic,NULL
+504,PT,"Portuguese Timor",NULL,country,geographic,NULL
+505,RQ,"Puerto Rico",NULL,country,geographic,NULL
+506,QA,Qatar,NULL,country,geographic,NULL
+507,RE,Reunion,NULL,country,geographic,NULL
+508,RH,Rhodesia,NULL,country,geographic,NULL
+509,RO,Romania,NULL,country,geographic,NULL
+510,RW,Rwanda,NULL,country,geographic,NULL
+511,YQ,"Ryukyu Islands (South)",NULL,country,geographic,NULL
+512,SC,"St. Christopher - Nevis",NULL,country,geographic,NULL
+513,SH,"St. Helena",NULL,country,geographic,NULL
+514,ST,"St. Lucia",NULL,country,geographic,NULL
+515,SB,"St. Pierre and Miquelon",NULL,country,geographic,NULL
+516,VC,"St. Vincent",NULL,country,geographic,NULL
+517,SM,"San Marino",NULL,country,geographic,NULL
+518,TP,"Sao Tome and Principe",NULL,country,geographic,NULL
+519,SA,"Saudi Arabia",NULL,country,geographic,NULL
+520,SG,Senegal,NULL,country,geographic,NULL
+521,SE,Seychelles,NULL,country,geographic,NULL
+522,SL,"Sierre Leone",NULL,country,geographic,NULL
+523,SK,Sikkim,NULL,country,geographic,NULL
+524,SN,Singapore,NULL,country,geographic,NULL
+525,SO,Somalia,NULL,country,geographic,NULL
+526,SF,"South Africa",NULL,country,geographic,NULL
+527,WA,"South-West Africa",NULL,country,geographic,NULL
+528,UR,"Soviet Union",NULL,country,geographic,NULL
+529,SP,Spain,NULL,country,geographic,NULL
+530,SS,"Spanish Sahara",NULL,country,geographic,NULL
+531,PG,"Spratly Island",NULL,country,geographic,NULL
+532,SU,Sudan,NULL,country,geographic,NULL
+533,NS,Suriname,NULL,country,geographic,NULL
+534,SV,Svalbard,NULL,country,geographic,NULL
+535,SQ,"Swan Islands",NULL,country,geographic,NULL
+536,WZ,Swaziland,NULL,country,geographic,NULL
+537,SW,Sweden,NULL,country,geographic,NULL
+538,SZ,Switzerland,NULL,country,geographic,NULL
+539,SY,Syria,NULL,country,geographic,NULL
+540,TZ,Tanzania,NULL,country,geographic,NULL
+541,TH,Thailand,NULL,country,geographic,NULL
+542,TO,Togo,NULL,country,geographic,NULL
+543,TN,Tonga,NULL,country,geographic,NULL
+544,TD,"Trinidad and Tobago",NULL,country,geographic,NULL
+545,TQ,"Trust Territory of the Pacific",NULL,country,geographic,NULL
+546,TS,Tunisia,NULL,country,geographic,NULL
+547,TU,Turkey,NULL,country,geographic,NULL
+548,TV,"Tuvalu (Ellice Islands)",NULL,country,geographic,NULL
+549,UG,Uganda,NULL,country,geographic,NULL
+550,TC,"United Arab Emirates (UAE)",NULL,country,geographic,NULL
+551,UK,"United Kingdom",NULL,country,geographic,NULL
+552,US,"United States",NULL,country,geographic,NULL
+553,UV,"Upper Volta",NULL,country,geographic,NULL
+554,UY,Uruguay,NULL,country,geographic,NULL
+555,VT,"Vatican City",NULL,country,geographic,NULL
+556,VE,Venezuela,NULL,country,geographic,NULL
+557,VM,Viet-Nam,NULL,country,geographic,NULL
+558,VQ,"Virgin Islands",NULL,country,geographic,NULL
+559,WQ,"Wake Island",NULL,country,geographic,NULL
+560,WB,"West Berlin",NULL,country,geographic,NULL
+561,WS,"Western Samoa",NULL,country,geographic,NULL
+562,YE,"Yemen (San'a)",NULL,country,geographic,NULL
+563,YS,"Yemen (Aden)",NULL,country,geographic,NULL
+564,YO,Yugoslavia,NULL,country,geographic,NULL
+565,CG,Zaire,NULL,country,geographic,NULL
+566,ZA,Zambia,NULL,country,geographic,NULL
+567,AFOP,"Foreign Service Post ComCenter Operations and Administration","Use for communications discussing (a) ComCenter Standing Operating Proceduresl (b) Telecommunications procedures including Telecommunications Handbook (TCH) and FAM regulations relating to communications operations (see also AREG); (c) ComCenter staffing; (c) communications security (COMSEC) procedures and regulations including S/KAG and COMSEC violations and compromises; (d) CRU personnel training matters (See also AFSP, AFSI, APER); (e) Crypto-clearnances.",administration,subject,NULL
+568,AFIN,"Financial Services","Use for papers pertaining to fiscal operations. Covers accounting, allotments, employee pay, retirement and leave records, property and income, bonding of cashiers, Treasury checks, foreign exchange rates, and fiscal relations between the Depeartment and other federal agencies.",administration,subject,BF/FS
+569,OCLR,"Military (or Government) Vessel and Flight Clearances and Visits","Includes clearnances for overflight of military aircraft, landing clearances, and clearances and arrangements for military ship or fleet visits.",operations,subject,NULL
+1270,BN,Benin,NULL,country,geographic,NULL
+1271,BO,Belarus,NULL,country,geographic,NULL
+1272,WI,"Western Sahara",NULL,country,geographic,NULL
+1273,BK,"Bosnia and Herzegovina",NULL,country,geographic,NULL
+1274,BQ,"Navassa Island",NULL,country,geographic,NULL
+1275,BS,"Bassas da India",NULL,country,geographic,NULL
+1276,JE,Jersey,NULL,country,geographic,NULL
+1277,RS,"Wrangel Islands",NULL,country,geographic,NULL
+1278,JU,"Juan de Nova Island",NULL,country,geographic,NULL
+1279,RM,"Marshall Islands",NULL,country,geographic,NULL
+1280,LQ,"Palmyra Atoll",NULL,country,geographic,NULL
+1281,GG,Georgia,NULL,country,geographic,NULL
+1282,GO,"Glorioso Islands",NULL,country,geographic,NULL
+1283,GM,Germany,NULL,country,geographic,NULL
+1284,GK,Guernsey,NULL,country,geographic,NULL
+1285,TE,"Tromelin Island",NULL,country,geographic,NULL
+1286,LH,Lithuania,NULL,country,geographic,NULL
+1287,WF,"Wallis and Futuna",NULL,country,geographic,NULL
+1288,HR,Croatia,NULL,country,geographic,NULL
+1289,HQ,"Howland Island",NULL,country,geographic,NULL
+1290,PS,"Trust Territory of the Pacific Islands",NULL,country,geographic,NULL
+1291,WE,"West Bank",NULL,country,geographic,NULL
+1292,KQ,"Kingman Reef",NULL,country,geographic,NULL
+1293,PM,Panama,NULL,country,geographic,NULL
+1294,ZL,"Balkan States",NULL,"world region",geographic,NULL
+1295,EN,Estonia,NULL,country,geographic,NULL
+1296,ZH,"North Atlantic Area",NULL,"world region",geographic,NULL
+1297,ZI,Zimbabwe,NULL,country,geographic,NULL
+1298,ZJ,Transcaucasus,NULL,"world region",geographic,NULL
+1299,ZK,"Central Asia",NULL,"world region",geographic,NULL
+1300,ZF,"Central Africa",NULL,"world region",geographic,NULL
+1301,ZB,"Baltic States",NULL,"world region",geographic,NULL
+1302,EZ,"Czech Republic",NULL,country,geographic,NULL
+1303,EU,"Europa Island",NULL,country,geographic,NULL
+1304,ZU,"Southern Africa",NULL,"world region",geographic,NULL
+1305,MD,Moldova,NULL,country,geographic,NULL
+1306,MF,Mayotte,NULL,country,geographic,NULL
+1307,UP,Ukraine,NULL,country,geographic,NULL
+1308,MK,"Macedonia, The Former Yugoslav Republic of",NULL,country,geographic,NULL
+1310,MW,Montenegro,NULL,country,geographic,NULL
+1311,FQ,"Baker Island",NULL,country,geographic,NULL
+1312,FS,"French Southern and Antarctic Lands",NULL,country,geographic,NULL
+1313,IP,"Clipperton Island",NULL,country,geographic,NULL
+1314,ZT,"South Atlantic Area",NULL,"world region",geographic,NULL
+1315,FK,"Falkland Islands (Islas Malvinas)",NULL,country,geographic,NULL
+1316,FM,Micronesia,NULL,country,geographic,NULL
+1317,NO,Norway,NULL,country,geographic,NULL
+1318,ZR,"Arabian Peninsula",NULL,"world region",geographic,NULL
+1319,ER,Eritrea,NULL,country,geographic,NULL
+1320,CY,Cyprus,NULL,country,geographic,NULL
+1321,WO,"LD REGION TAGS",NULL,country,geographic,NULL
+1322,CQ,"Northern Mariana Islands",NULL,country,geographic,NULL
+1323,KG,Kyrgyzstan,NULL,country,geographic,NULL
+1324,SR,Serbia,NULL,country,geographic,NULL
+1325,UZ,Uzbekistan,NULL,country,geographic,NULL
+1326,KR,Kiribati,NULL,country,geographic,NULL
+1327,SI,Slovenia,NULL,country,geographic,NULL
+1328,KZ,Kazakhstan,NULL,country,geographic,NULL
+1329,ZS,"Southern Europe",NULL,"world region",geographic,NULL
+1330,YM,Yemen,NULL,country,geographic,NULL
+1331,AJ,Azerbaijan,NULL,country,geographic,NULL
+1332,KV,Kosovo,NULL,country,geographic,NULL
+1333,LG,Latvia,NULL,country,geographic,NULL
+1334,TX,Turkmenistan,NULL,country,geographic,NULL
+1335,LO,Slovakia,NULL,country,geographic,NULL
+1336,TT,"East Timor",NULL,country,geographic,NULL
+1337,TL,Tokelau,NULL,country,geographic,NULL
+1338,TK,"Turks and Caicos Islands",NULL,country,geographic,NULL
+1339,TI,Tajikistan,NULL,country,geographic,NULL
+1340,DQ,"Jarvis Island",NULL,country,geographic,NULL
+1341,AA,Aruba,NULL,country,geographic,NULL
+1342,AE,"United Arab Emirates",NULL,country,geographic,NULL
+1343,AM,Armenia,NULL,country,geographic,NULL
+1344,YI,Yugoslavia,NULL,country,geographic,NULL
+1345,IM,"Man, Isle of",NULL,country,geographic,NULL
+1346,AY,Antarctica,NULL,country,geographic,NULL
+1347,DJ,Djibouti,NULL,country,geographic,NULL
+1348,ZO,"North Asia",NULL,"world region",geographic,NULL
+1349,KSUM,"Summit Meetings","KSUM: Summit Meetings\nEffective from January 1983 (Revised November 1987)\nUse on all documents concerning Summit Meetings. This includes substantive and administrative arrangements for meetings, records of meetings and reports on actions by participants as a result of meetings, including preparatory meetings. Also use appropriate Subject TAGS. (Action: Appropriate Bureau)\n",NULL,program,NULL
+1350,KPDC,"Protected Digital Copier",NULL,NULL,program,NULL
+1351,KTIP,"Trafficking in Persons","KTIP: Trafficking in Persons\nEffective from September 2008\nUse for all cables related to the topics of trafficking in persons, human trafficking, slavery, involuntary servitude, forced labor, labor migration, illegal migration, commercial sexual exploitation, prostitution, sex tourism, forced marriage, child labor, debt bondage, peonage, and child soldiering. Also use appropriate Subject and Country TAGS. (Action: G/TIP)\n",NULL,program,NULL
+1352,KPLS,"Polls, Survey Research and Focus Groups",NULL,NULL,program,NULL
+1353,KWWW,"World Wide Web Site",NULL,NULL,program,NULL
+1354,KSLG,"Secure Logistics",NULL,NULL,program,NULL
+1355,KOMC,"Export Control of Defense Articles and Defense Services",NULL,NULL,program,NULL
+1356,KTDB,"National Trade Data Bank",NULL,NULL,program,NULL
+1357,KTSD,"Trilateral Strategic Dialogue",NULL,NULL,program,NULL
+1358,KHDP,"Humanitarian Demining Program",NULL,NULL,program,NULL
+1359,KGHA,"Greater Horn of Africa Initiative",NULL,NULL,program,NULL
+1360,KGHG,"Global Climate Change","KGHG: Global Climate Change\nEffective from May 2007\nUse for all documents addressing greenhouse gas (GHG) emissions, and global climate change (also referred to as global warming). This includes, but is not limited to, the economic, energy, environmental, geographic, health, scientific, social, and political linkages of global climate change. Also use appropriate Subject and Country TAGS. (Action: OES/EGC)\n",NULL,program,NULL
+1361,KBCT,"Arab League Boycott",NULL,NULL,program,NULL
+1362,KHLS,"Homeland Security","KHLS: Homeland Security\nEffective from August 2006\nUse for all documents relating to all aspects of homeland security issues, including acts of terrorism directed at the U.S. homeland, its citizens, or interests; planning and support for such acts of terrorism; capabilities of terrorist groups; activities of institutions, groups, or individuals that support such terrorism; acts of terrorism that transcend national boundaries due to the support network or nationality of the perpetrator, victim, or facility or conventional, biological, radiological, or nuclear (CBRN) terrorism; terrorist travel; actions of the host government, institutions, or individuals related to support for or opposition to U.S. Government homeland security or counter-terrorism initiatives; actions of the host government or multilateral organizations related to the establishment of host country or regional security, bureaucratic, physical, or cyber infrastructure; homeland security implications and effects of border protection, immigration, and customs policies; transportation (e.g., seaports, civil air) security; host government travel document control and standards; emergency, preparedness, and response; biodefense, science and technology development related to the above areas; reactions of host government, media, etc., to homeland security-related programs and activities in the United States, or of the U.S. Government. Also use appropriate Subject and Country TAGS. (Action: S/CT, CA, OES, A/OEM)\n",NULL,program,NULL
+1363,KSEI,"Southeast European Cooperative Initiative",NULL,NULL,program,NULL
+1364,KFSC,"Financial Service Center Operations",NULL,NULL,program,NULL
+1365,KLSO,"Language Support Operations",NULL,NULL,program,NULL
+1366,KSTC,"Strategic Trade and Technology Controls",NULL,NULL,program,NULL
+1367,KCSY,"Consular System",NULL,NULL,program,NULL
+1368,KRAD,"Radioactive Contamination of the Environment","KRAD: Radioactive Contamination of the Environment\nEffective from May 1997 (Revised April 2000)\nUse on all documents dealing with radioactive contamination of the environment from whatever source—military or civilian use, transportation, storage, or disposal of nuclear material Appropriate Subject Terms to use with this TAGS would include nuclear contamination, radiation, radioactive material and International Atomic Energy Agency (IAEA) emergency notification. In connection with accidental or deliberate contamination, appropriate Terms to use with this TAGS include radioactive material transfer, radioactive waste disposal, radioactive waste management, industrial/medical radiography, medical isotope, and transfer of fissile material. Also use appropriate Subject TAGS. (Action: OES/OA)\n",NULL,program,NULL
+1369,KISL,"Islamic Issues","KISL: Islamic Issues\nEffective from November 1988 (Revised April 2000)\nUse on documents treating government involvement in recognition of or approaches to Islam; political and economic activities undertaken by private Islamic organizations or prominent individuals; and fundamentalism.    Also use appropriate Subject and Country TAGS.\n(Action:   NEA/PPR, AF/RA, EAP/RA)\n",NULL,program,NULL
+1370,KPMP,"Patch Management Program",NULL,NULL,program,NULL
+1371,KOLY,"Olympic Games Reporting","KOLY: Olympic Games Reporting\nEffective from February 1984\nUse on all documents relating to issues, reports, or activities concerned with Olympic games. Also use appropriate Subject, Country, and Organization TAGS. Note: KOLY will be used in the above prescribed manner for all subsequent winter and summer Olympic games. Also use appropriate Subject TAGS. (Action: Appropriate Bureau)\n",NULL,program,NULL
+1372,KTEX,Textiles,NULL,NULL,program,NULL
+1373,KFAM,"Foreign Affairs Manual",NULL,NULL,program,NULL
+1374,KSTT,"State Transition Team",NULL,NULL,program,NULL
+1375,KACT,"Strategic Arms Control (ACS) Treaties","KACT: Strategic Arms Control (ACS) Treaties\nEffective from August 2000 (Revised August 2004)\nUse for all documents relating to specific, interrelated strategic (nuclear) arms control treaties and their implementation:\nAlso use appropriate Subject TAGS. (Action: NP/EX)\n",NULL,program,NULL
+1376,KGCN,"Government to Government Claims Negotiations",NULL,NULL,program,NULL
+1377,KICT,"Iran-U.S. Claims Tribunal",NULL,NULL,program,NULL
+1378,KICR,"International Coral Reef Initiative",NULL,NULL,program,NULL
+1379,KFPC,"Foreign Policy Trade Controls and East/West Trade",NULL,NULL,program,NULL
+1380,KESS,"Emergency Security Supplemental",NULL,NULL,program,NULL
+1381,KVIR,"Computer Virus and/or Anti-Virus Program",NULL,NULL,program,NULL
+1382,KMPI,"Middle East Partnership Initiative",NULL,NULL,program,NULL
+1383,KICA,"International Cooperative Administrative Support Services",NULL,NULL,program,NULL
+1384,KWMN,"Women Issues","KWMN: Women Issues\nEffective from June 1995\nUse on all documents relating to the Fourth World Conference on Women and any future World Conferences on Women. Also use this TAGS on issues concerning women’s human rights, women’s political participation, women-in-development, and any discussions of women in the United Nations or any other international organizations. Also use appropriate Subject TAGS. (Action: G/CS, IO, and DRL)\n",NULL,program,NULL
+1385,KNET,"Department of State Telecommunications Network (DOSTN) Program",NULL,NULL,program,NULL
+1386,KNEP,"Nonexpendable Property Application (NEPA)",NULL,NULL,program,NULL
+1387,KMCA,"Millennium Challenge Account","KMCA: Millennium Challenge Account\nEffective from August 2004\nUse for documents relating to all aspects of the Millennium Challenge Account, a U.S. new foreign assistance account, or the Millennium Challenge Corporation, the independent government corporation recently established to manage and oversee this assistance. Also use appropriate Subject TAGS. (Action: MCC/IT)\n",NULL,program,NULL
+1388,KSRK,"Visas Shark Communication",NULL,NULL,program,NULL
+1389,KNEI,"Northern Europe Initiative (NEI)",NULL,NULL,program,NULL
+1390,KOCI,"Children’s Issues",NULL,NULL,program,NULL
+1391,KPAP,"Overseas Presence Advisory Panel (OPAP)",NULL,NULL,program,NULL
+1392,KWBG,"West Bank and Gaza","KWBG: West Bank and Gaza\nEffective from December 1993 (Revised April 2000)\nUse on all documents dealing with the implementation of the Israeli-PLO Declaration of Principles, including Palestinian interim self-rule, economic development and development assistance to the Palestinians in the West Bank and Gaza. Also, use for Israeli-PLO negotiations on implementing the agreement and political developments in the West Bank and Gaza including elections for a Palestinian Council. Also use the appropriate Subject TAGS. (Action: NEA/IPA)\n",NULL,program,NULL
+1393,KLIG,"Foreign Litigation",NULL,NULL,program,NULL
+1394,KJUS,"Administration of Justice","KJUS: Administration of Justice\n",NULL,program,NULL
+1395,KCOR,"Corruption and Anti-Corruption","KCOR: Corruption and Anti-Corruption\nEffective from August 2001\nUse for all documents relating to corruption and anti-corruption, dishonesty, and unethical behavior among public officials representing local, provincial, and national governments. This would include linkages with justice, economic, social and political entities. Also use appropriate Subject TAGS. (Action: Appropriate Bureau)\n",NULL,program,NULL
+1396,KCOM,"Chief of Mission","KCOM: Chief of Mission\nEffective from March 2004\nUse for all documents addressed for action to the chief of a U.S. mission in a foreign location (e.g., ambassadors, chargés d’affaires, consuls general, or principal officers). Use KCOM in conjunction with generic PASS instructions to chiefs of mission in Department telegrams. Also use the appropriate Subject TAGS. (Action: Appropriate Bureau)\n",NULL,program,NULL
+1397,KDRG,"Detainee Repatriation from Guantanamo Bay","KDRG: Detainee Repatriation from Guantanamo Bay\nEffective from December 2007\nUse for all documents addressing issues connected to the repatriation and transfer of detainees in U.S. Government custody at the military detention facility at Guantanamo Bay, Cuba to their countries of origin or to third countries. Also use appropriate Subject and Country TAGS. (Action: S/WCI)\n",NULL,program,NULL
+1398,KSAF,"Safety Program",NULL,NULL,program,NULL
+1399,KCOG,"Continuity of the Federal Government",NULL,NULL,program,NULL
+1400,KSCA,"Science Counselors and Attachés","KSCA: Science Counselors and Attachés\nEffective from February 1983\nUse on all documents drafted by or sent to Science Counselors and Science Attachés. Also use appropriate Subject TAGS. (Action: OES). Note: KSCA replaces the Organization SCSA.\n",NULL,program,NULL
+1401,KPAO,"Public Affairs Office","KPAO: Public Affairs Office\nEffective from May 2000\nUse on all documents intended for Public Affairs sections abroad, and should be used by field Public Affairs sections abroad on all documents coming into the Department which relate to Public Diplomacy Programs. Also use appropriate Subject TAGS. (Action: ECA/EX/PR)\n",NULL,program,NULL
+1402,KPAL,"Palestinian Affairs","KPAL: Palestinian Affairs\nEffective from August 1983 (Revised April 2000)\nUse on all documents relating to issues, reports, or activities concerned with the Palestinian people, as a group or in part, or the area known as Palestine. Also use appropriate Subject, Country, and Organization TAGS. (Action: NEA/PA)\n",NULL,program,NULL
+1403,KPAM,"Property Accountability Management",NULL,NULL,program,NULL
+1404,KPKO,"United Nations Peacekeeping Operations","KPKO: United Nations Peacekeeping Operations\nEffective from August 1996\nUse on all documents relating to existing or potential United Nations peacekeeping activities, including proposals for and negotiations with other countries on peacekeeping activities, military support, sanctions monitoring, elections and humanitarian activities, as well as interaction with international and regional organizations on peacekeeping. Also use appropriate Subject TAGS. (Action: IO)\n",NULL,program,NULL
+1405,KLBO,"Information Resource Management Liaison Office to Overseas Buildings Operations",NULL,NULL,program,NULL
+1406,KVPR,"Visas VIPER Communications",NULL,NULL,program,NULL
+1407,KIMT,"Information Management Training",NULL,NULL,program,NULL
+1408,KPRV,Privatization,NULL,NULL,program,NULL
+1409,KCIP,"Critical Infrastructure Protection","KCIP: Critical Infrastructure Protection\nEffective from August 2001\nUse for all documents reporting on critical infrastructure protection (CIP) issues, which are defined as vulnerabilities and threats, both physical and cyber, to systems and assets (particularly interconnected information systems and networks) so vital to a nation that their incapacity or destruction would have a debilitating impact on national security, national economic security, and/or national public health and safety. Use for reporting of CIP issues both as they affect host country and as they impact the United States. Also use appropriate Subject TAGS. (Action: Appropriate Bureau)\n",NULL,program,NULL
+1410,KCIS,"Posts Classified Information Handling",NULL,NULL,program,NULL
+1411,KCFE,"Conventional Armed Forces in Europe","KCFE: Conventional Armed Forces in Europe\nEffective from August 1989\nUse on all documents between U.S. Vienna and the Department pertaining to CFE negotiations; documents pertaining to conventional forces in Europe including both Eastern and Western forces, their structure, posture, changes, etc.; documents pertaining to allied and Warsaw Pact conventional arms control positions, plans and related internal political situations, documents referring to the High Level Task Force (HLTF) or its subgroups; and all documents discussing congressional delegation visits to Europe that will address conventional arms control issues. (Action: EUR/RPM)\n",NULL,program,NULL
+1412,KFRD,"Fraud Prevention Programs","KFRD: Fraud Prevention Programs\nEffective from August 1986\nUse on all reporting that refers to efforts and activities pertaining to the prevention of fraud and deceptive practices in the issuance of visas, passports, the issuance of Federal benefits to U.S. citizens and others, and to active measures developed by the Department to oversee their legality and for reporting upon the results of antifraud and prevention measures in consular matters. Also use appropriate Subject TAGS. (Action: CA/FPP)\n",NULL,program,NULL
+1413,KGIC,"Global Initiative to Combat Nuclear Terrorism","KGIC: Global Initiative to Combat Nuclear Terrorism\nEffective from September 2006\nUse for all documents relating to the Global Initiative to Combat Nuclear Terrorism. The Global Initiative works toward the prevention, detection, and response to acts of nuclear terrorism. Also use appropriate Subject Tags. (Action: ISM/WMDT)\n",NULL,program,NULL
+1414,KPWR,"Power Support Program","KPWR: Power Support Program\nEffective from March 1993\nUse on all documents dealing with the Department’s electrical power support requirements. The program provides consolidated funding for generators, central uninterruptible power supply (UPS) systems, and PCB transformer abatement projects. Also use appropriate Subject TAGS. (Action: OBO/PE/DE)\n",NULL,program,NULL
+1415,KNSD,"North-South Dialogue",NULL,NULL,program,NULL
+1416,KFLO,"Family Liaison",NULL,NULL,program,NULL
+1417,KSEO,"Security Engineering Operations",NULL,NULL,program,NULL
+1418,KEMS,"Electronic Messaging Systems",NULL,NULL,program,NULL
+1419,KFLU,"Avian and Pandemic Influenza Activities",NULL,NULL,program,NULL
+1420,KGLB,"Global Learning and Observations to Benefit the Environment (GLOBE)",NULL,NULL,program,NULL
+1421,KIDE,"Investment Disputes and Property Expropriations",NULL,NULL,program,NULL
+1422,KSPR,"Strategic, Performance and Resource Planning","KSPR: Strategic, Performance and Resource Planning\nEffective from October 1997\nUse on all documents dealing with the strategic planning process for all foreign affairs agencies or agencies with operations and programs abroad as well as the Department’s own strategic planning activities. This includes all resource allocation processes when associated with the Mission Performance Plan  (MPP), namely: budget formulation, the Financial Plan (FINPLAN), and the field budget plan. Technical and operational messages that are purely budget-focused should only use ABUD. Use KSPR on messages regarding personnel planning in connection with the annual MPP exercises, and subjects relating to the Government Performance and Results Act (GPRA) of 1993. Operational personnel requests (e.g., new positions, classification actions, conversions of positions from FSN to PIT, etc.) should still only use APER. Suggested terms to use with KSPR are program planning, Mission Performance Plan (MPP), Resource Allocations and Budget Integration Tool (RABIT) and Government Performance and Results Act (GPRA). Also use appropriate Subject TAGS. (Action: M/P)\n",NULL,program,NULL
+1423,KMSG,"Marine Security Guard Program",NULL,NULL,program,NULL
+1424,KGIT,"Global Information Technology Modernization Program",NULL,NULL,program,NULL
+1425,KREC,Reciprocity,NULL,NULL,program,NULL
+1426,KMDR,"Media Reaction Reporting","KMDR: Media Reaction Reporting\nEffective From October 1999\nUse on all documents dealing with setting post ?Watching Briefs  and on all post reporting concerning editorial content and media reaction. Also use appropriate Subject TAGS. (Action: INR/R)\n",NULL,program,NULL
+1427,KPIR,"Maritime Piracy and Armed Robbery Against Ships",NULL,NULL,program,NULL
+1428,KAWC,"Atrocities and War Crimes","KAWC: Atrocities and War Crimes\nEffective from July 2001\nUse for all documents relating to atrocities, massacres, and war crimes, including allegations, reports, investigations, and prosecutions of genocide, crimes against humanity, grave breaches of the Geneva Conventions, and violations of the laws or customs for war. Also use appropriate Subject TAGS. (Action: Appropriate Bureau, Info: S/WCI)\n",NULL,program,NULL
+1429,KIPR,"Intellectual Property Rights","KIPR: Intellectual Property Rights\nEffective from December 1988 (Revised April 2000)\nUse on all documents relating to intellectual property rights which include patents, trademarks, copyrights, semiconductor designs (mask works), industrial designs, trade secrets, appellations of origin and other forms of protection to reward and encourage innovation and creativity. Also use appropriate Subject TAGS. (Action: EEB/TPP/MTA/IPC)\n",NULL,program,NULL
+1430,KQDD,"Quadrennial Diplomacy and Developments Review",NULL,NULL,program,NULL
+1431,KMRS,"Rightsizing the U.S. Government’s Overseas Presence",NULL,NULL,program,NULL
+1432,KTFN,"Terrorism Finance Traffic","KTFN: Terrorism Finance Traffic\nEffective from July 2004\nUse for documents relating to all aspects of terrorism financing; sanctions; designations of individuals under Executive Orders (E.O.) dealing with terrorism finance such as E.O. 13224; related UN resolutions; denial of funds to terrorists; and other related aspects of terrorism financing. Also use appropriate Subject TAGS. (Action: EEB/ESC)\n",NULL,program,NULL
+1433,KCRS,"Coordinator for Reconstruction and Stabilization",NULL,NULL,program,NULL
+1434,KCRM,"Criminal Activity","KCRM: Criminal Activity\nEffective from April 1994 (Revised April 2000)\nUse on all documents relating to criminal organizations and activities, the threat they pose to U.S. interests and/or friendly governments, and host country and U.S. Government programs to combat them. This includes international criminal organizations; money laundering and other financial crimes; illicit trafficking including alien smuggling and gun running; international stolen property theft and fencing rings; international frauds and commercial crimes; UN crime meetings and anti-crime programs; and interaction with international and regional organizations on these issues. U.S. assistance covers training of host country judicial and law enforcement agencies. Use this K TAGS with the Subject TAGS SOCI. Distinguish the use of this TAGS from AID-funded administration of justice programs in Latin America (KJUS), anti-narcotics issues and programs (SNAR), and anti-terrorism issues and programs (PTER). (Action: INL/ENT)\n",NULL,program,NULL
+1435,KWIR,Wireless,NULL,NULL,program,NULL
+1436,KHIV,"Emerging Infectious Diseases and HIV/AIDS Program","KHIV: Emerging Infectious Diseases and HIV/AIDS Program\nEffective from June 2000\nUse for all documents relating to actual and prospective activities by the U.S. Government, alone or in conjunction with or through other entities, to combat HIV/AIDS and other infectious diseases. Also use Appropriate Subject TAGS. (Action: S/GAC)\n",NULL,program,NULL
+1437,KTIA,"Treaties and International Agreements","KTIA: Treaties and International Agreements\nEffective from June 1984\nUse on all documents concerning treaties, including conventions, protocols, or other International Agreements, such as exchange of notes, exchange of letters and memoranda of understanding, as well as requirements of the Case Act (11 FAM 724; 1 U.S.C. 112B). Also use appropriate Subject TAGS. (Action: L/T)\n",NULL,program,NULL
+1438,KOGL,"Open Source and Gray Literature",NULL,NULL,program,NULL
+1439,KNAR,"Nazi Assets and Restitution",NULL,NULL,program,NULL
+1440,KDEM,Democratization,"KDEM: Democratization\nEffective from May 1991\nUse on all documents dealing with democratization in Eastern Europe, Latin America, Asia, Africa, and the Middle East. Encouraging democratization constitutes an essential component of U.S. policy. The U.S. Government is devoting significant resources to monitor and promote regional trends away from autocratic rule and toward political pluralism. Programs designed to encourage democratization are diverse, and often are cross-discipline in nature, requiring the involvement of several U.S. Government agencies. Also use the appropriate Subject and Geo-Political TAGS. (Action: Appropriate Bureau)\n",NULL,program,NULL
+1441,KRIM,"Regional Information Management Centers",NULL,NULL,program,NULL
+1442,KCCP,"Classified Connectivity Deployment Program",NULL,NULL,program,NULL
+1443,KSAC,"Security Advisory Council",NULL,NULL,program,NULL
+1444,KPOW,"Prisoners of War/Missing in Action",NULL,NULL,program,NULL
+1445,KSIP,"IT Skills Incentive Program",NULL,NULL,program,NULL
+1446,KEAI,"Enterprise for the Americas Initiative",NULL,NULL,program,NULL
+1447,KMFO,"Multinational Force Observers",NULL,NULL,program,NULL
+1448,KWPA,"Worldwide Property Accountability",NULL,NULL,program,NULL
+1449,KONP,"OpenNet Plus Program",NULL,NULL,program,NULL
+1450,KECF,"The U.S. Africa Economic Cooperation Forum",NULL,NULL,program,NULL
+1451,KNNP,"Nuclear Non- Proliferation","KNNP: Nuclear Non-Proliferation\nEffective from April 1984\nUse on all documents on U.S. policy for preventing the spread of nuclear weapons to other countries, the transfer of nuclear material, equipment of technology, agreements for cooperation on the peaceful uses of nuclear energy, matters concerning multilateral discussions on the uses of nuclear energy including the activities of the International Atomic Energy Agency, and activities in other countries related to the acquisition of nuclear explosives. Also use appropriate Subject TAGS. (Action: Appropriate Bureau)\n",NULL,program,NULL
+1452,KUNR,"UN Reform","KUNR: UN Reform\nEffective from November 1995\nUse on all documents dealing with all efforts to reform and restructure the United Nations. Some of the reforms are: the UN budget and/or ceiling, security council expansion, managerial improvements, and strengthening the role of the UN. Also use appropriate Subject TAGS. (Action: IO)\n",NULL,program,NULL
+1453,KPIN,"Political Internationals","KPIN: Political Internationals\nEffective from November 1984\nUse on all documents relating to the activities and policies of the four major Political Internationals: Socialist International, Christian Democratic International, Liberal International, and the International Democratic Union. This includes reporting on the attitudes of member parties towards the Internationals, the interaction between member parties of the Internationals, and the activities of the Internationals themselves. In addition, this TAGS should be used on all documents relating to the policies of the German (FRG) political foundations: Friederich Ebert, Konrad Adenauer, Hanns Seidel, and Friederich Naumann. Also use appropriate Subject TAGS. (Action: P)\n",NULL,program,NULL
+1454,KRVC,"Research Vessel Clearances",NULL,NULL,program,NULL
+1455,KUNC,"United Nations Compensation Commission",NULL,NULL,program,NULL
+1456,KIRC,"Information Resource Centers",NULL,NULL,program,NULL
+1457,KIRF,"International Religious Freedom","KIRF: International Religious Freedom\nEffective from January 1999\nUse on all documents relating to all issues of religious freedom and persecution, including civil unrest where religion is a precipitating factor; changes to or enforcement of laws affecting freedom of religion; religious aspects of movements, parties or persons seeking governmental change; governmental repression of religious minorities, movements or leaders; religion playing a role in reconciling conflicts; and changes in religious demographics that may produce societal changes. Also use appropriate Subject TAGS. (Action: DRL/IRF)\n",NULL,program,NULL
+1458,CPC,"UN Committee for Program and Coordination",NULL,NULL,organization,NULL
+1459,AGR,"Department of Agriculture",NULL,NULL,organization,NULL
+1460,AMCHAMS,"American Chambers of Commerce",NULL,NULL,organization,NULL
+1461,IWSG,"International Wool Study Group",NULL,NULL,organization,NULL
+1462,"EL AL","Israeli Airlines",NULL,NULL,organization,NULL
+1463,UAW,"United Auto Workers",NULL,NULL,organization,NULL
+1464,VIASA,"Venezuelan Airline",NULL,NULL,organization,NULL
+1465,UNSCEAR,"UN Scientific Committee on the Effects of Atomic Radiation",NULL,NULL,organization,NULL
+1466,SPC,"Secretariat of the Pacific Community",NULL,NULL,organization,NULL
+1467,SPD,"Social Democratic Party in FRG and UK",NULL,NULL,organization,NULL
+1468,NTSB,"National Transportation Safety Board",NULL,NULL,organization,NULL
+1469,SPF,"South Pacific Forum",NULL,NULL,organization,NULL
+1470,DJP,"Ruling Democratic Justice Party",NULL,NULL,organization,NULL
+1471,CSIS,"Center for Strategic and International Studies",NULL,NULL,organization,NULL
+1472,CCUS,"Chamber of Commerce of the US",NULL,NULL,organization,NULL
+1473,INRO,"International Natural Rubber Organization",NULL,NULL,organization,NULL
+1474,NASCO,"North Atlantic Salmon Conservation Organization",NULL,NULL,organization,NULL
+1475,"General Motors",GM,NULL,NULL,organization,NULL
+1476,MAS,"Military Agency for Standardization",NULL,NULL,organization,NULL
+1477,AEROFLOT,"Soviet Airline",NULL,NULL,organization,NULL
+1478,NPC,"National Peoples Congress",NULL,NULL,organization,NULL
+1479,EUCOM,"European Command",NULL,NULL,organization,NULL
+1480,MAB,"Man and the Biosphere Program (The)",NULL,NULL,organization,NULL
+1481,ADPSEC,"Automatic Data Processing Security",NULL,NULL,organization,NULL
+1482,ALIA,"Royal Jordanian Airline",NULL,NULL,organization,NULL
+1483,MINURSO,"UN Mission for the Referendum in Western Sahara",NULL,NULL,organization,NULL
+1484,UNGA/SPC,"UN General Assembly Special Political Committee",NULL,NULL,organization,NULL
+1485,USEM,"Social Union Mexican Businessmen",NULL,NULL,organization,NULL
+1486,NIDA,"National Institute on Drug Abuse",NULL,NULL,organization,NULL
+1487,ARIANA,"Afghan Airline",NULL,NULL,organization,NULL
+1488,PCI,"Italian Communist Party",NULL,NULL,organization,NULL
+1489,UPOV,"Committee for the Protection for New Varieties of Plants",NULL,NULL,organization,NULL
+1490,PCC,"Panama Canal Commission",NULL,NULL,organization,NULL
+1491,TPLF,"Tigrean Peoples Liberation Front",NULL,NULL,organization,NULL
+1492,HUD,"Department of Housing and Urban Development",NULL,NULL,organization,NULL
+1493,BDC,"Berlin Document Center",NULL,NULL,organization,NULL
+1494,MPEAA,"Motion Picture Export Association of America",NULL,NULL,organization,NULL
+1495,IOVW,"International Office of the Vine and Wine",NULL,NULL,organization,NULL
+1496,ICCROM,"International Center for the Study of the Preservation and Restoration of Cultural Property",NULL,NULL,organization,NULL
+1497,AT&T,"American Telephone & Telegraph",NULL,NULL,organization,NULL
+1498,MPLA,"Popular Movement for the Liberation of Angola",NULL,NULL,organization,NULL
+1499,FSCADP,"FSC Paris ADP Center",NULL,NULL,organization,NULL
+1500,COSEP,"Superior Council of the Private Sector Groups in Nicaragua",NULL,NULL,organization,NULL
+1501,BLS,"Bureau of Labor Statistics",NULL,NULL,organization,NULL
+1502,AU-1,"African Union",NULL,NULL,organization,NULL
+1503,FTC,"Federal Trade Commission",NULL,NULL,organization,NULL
+1504,CBC,"Canadian Broadcasting Corporation",NULL,NULL,organization,NULL
+1505,WTRO,"World Trade Organization",NULL,NULL,organization,NULL
+1506,UNMOP,"UN Mission of Observers in Prevlaka",NULL,NULL,organization,NULL
+1507,UNHRC-2,"UN Human Rights Committee",NULL,NULL,organization,NULL
+1508,PJC,"Permanent Joint Council, NATO-Russia",NULL,NULL,organization,NULL
+1509,INS,"Immigration and Naturalization Service",NULL,NULL,organization,NULL
+1510,CBS,"Columbia Broadcasting System",NULL,NULL,organization,NULL
+1511,IFAD,"Fund for Agricultural Development, International Fund for Agriculture Development",NULL,NULL,organization,NULL
+1512,YPFB,"Yacemientos Petroliferos Fiscales (BL)",NULL,NULL,organization,NULL
+1513,AMOCO,"American Oil Company",NULL,NULL,organization,NULL
+1514,LBAR,"Board of Appellate Review",NULL,NULL,organization,NULL
+1515,SMI,"Smithsonian Institution",NULL,NULL,organization,NULL
+1516,AKB,"Allied Kommandatura Berlin",NULL,NULL,organization,NULL
+1517,DOT,"Department of Transportation",NULL,NULL,organization,NULL
+1518,DPR,"Office of Policy and Resources",NULL,NULL,organization,NULL
+1519,ECDC,"Economic Cooperation and Development Comt",NULL,NULL,organization,NULL
+1520,FRELIMO,"Leading Angolan Political Party",NULL,NULL,organization,NULL
+1521,FCC,"Federal Communications Commission",NULL,NULL,organization,NULL
+1522,PNDC,"Provisional National Defense Council",NULL,NULL,organization,NULL
+1523,PETROBRAS,"Brazilian State Owned Oil Company",NULL,NULL,organization,NULL
+1524,AUB,"American University in Beirut",NULL,NULL,organization,NULL
+1525,WFTU,"World Federation of Trade Unions",NULL,NULL,organization,NULL
+1526,UNITA,"National Union for Total Independence in Angola",NULL,NULL,organization,NULL
+1527,FHWA,"Federal Highway Administration",NULL,NULL,organization,NULL
+1528,AFSA,"American Foreign Service Association",NULL,NULL,organization,NULL
+1529,UDEAC,"Central African Customs and Economic Union",NULL,NULL,organization,NULL
+1530,AALC,"African American Labor Center",NULL,NULL,organization,NULL
+1531,FMC,"Federal Maritime Commission",NULL,NULL,organization,NULL
+1532,EBRD,"European Bank for Reconstruction and Development",NULL,NULL,organization,NULL
+1533,EDC,"Export Development Corporation",NULL,NULL,organization,NULL
+1534,CCITT,"International Telegraph and Telephone Consultative Committee",NULL,NULL,organization,NULL
+1535,AFDF,"African Development Fund",NULL,NULL,organization,NULL
+1536,NTT,"Nippon Telegraph and Telephone Corp",NULL,NULL,organization,NULL
+1537,ICCAT,"International Convention for the Conservation of Atlantic Tunas",NULL,NULL,organization,NULL
+1538,SBA,"Small Business Administration",NULL,NULL,organization,NULL
+1539,EDU,"European Democratic Union",NULL,NULL,organization,NULL
+1540,TAPLINE,"Trans Arabian Pipeline Company",NULL,NULL,organization,NULL
+1541,ALP,"Australian Labor Party",NULL,NULL,organization,NULL
+1542,IBM,"International Business Machines",NULL,NULL,organization,NULL
+1543,FARC,"Fuerzas Armadas Revolucionaria",NULL,NULL,organization,NULL
+1544,DPP,"Democratic Progressive Party",NULL,NULL,organization,NULL
+1545,CIEC,"Inter-American Council on Education Science and Culture",NULL,NULL,organization,NULL
+1546,KOC,"Kuwait Oil Company",NULL,NULL,organization,NULL
+1547,IBC,"International Boundary Commission United States and Canada",NULL,NULL,organization,NULL
+1548,INRA,"National Institute for Agrarian Reform",NULL,NULL,organization,NULL
+1549,AID,"International Cooperation Administration",NULL,NULL,organization,NULL
+1550,CAA,"British Civil Aviation Authority",NULL,NULL,organization,NULL
+1551,CCC-1,"Commodity Credit Corporation",NULL,NULL,organization,NULL
+1552,NAFO,"Northwest Atlantic Fisheries Organization",NULL,NULL,organization,NULL
+1553,ARCO,"Atlantic Richfield Oil Company",NULL,NULL,organization,NULL
+1554,ECLAC,"CEPAL, UN Economic Commission for Latin America and the Caribbean",NULL,NULL,organization,NULL
+1555,G-77,"Group of Seventy-Seven",NULL,NULL,organization,NULL
+1556,INCB,"International Narcotics Control Board",NULL,NULL,organization,NULL
+1557,EEOC,"Equal Employment Opportunity Commission",NULL,NULL,organization,NULL
+1558,IWBC,"International Boundary and Water Commission United States and Mexico",NULL,NULL,organization,NULL
+1559,IIC,"International Institute for Cotton",NULL,NULL,organization,NULL
+1560,ABA,"American Bar Association",NULL,NULL,organization,NULL
+1561,ABC,"American Broadcasting Company",NULL,NULL,organization,NULL
+1562,WCC,"World Council of Churches",NULL,NULL,organization,NULL
+1563,CCNAA,"Coordinating Council for North American Affairs",NULL,NULL,organization,NULL
+1564,CACM,"Central American Common Market",NULL,NULL,organization,NULL
+1565,WCL,"World Confederation of Labor",NULL,NULL,organization,NULL
+1566,KPNLF,"Khmer Peoples National Liberation Front",NULL,NULL,organization,NULL
+1567,USTTA,"United States Travel and Tourism Administration",NULL,NULL,organization,NULL
+1568,PNP,"Peoples National Party",NULL,NULL,organization,NULL
+1569,IBPCT,"International Bureau for the Publication of Customs Tariffs",NULL,NULL,organization,NULL
+1570,NNPC,"Nigerian National Petroleum Corp",NULL,NULL,organization,NULL
+1571,FAS,"Foreign Agriculture Service (Dept. of Agriculture)",NULL,NULL,organization,NULL
+1572,PNC,"Palestinian National Council",NULL,NULL,organization,NULL
+1573,UNPUOS,"UN Outer Space Committee",NULL,NULL,organization,NULL
+1574,UNTNC,"UN Commission on Transnational Corps",NULL,NULL,organization,NULL
+1575,IRC-2,"International Rescue Committee",NULL,NULL,organization,NULL
+1576,NICSMA,"NATO Integrated Communications Systems",NULL,NULL,organization,NULL
+1577,MIR,"Leftist Revolutionary Movement in Bolivia",NULL,NULL,organization,NULL
+1578,AVENSA,"Aerovias Venezolanas",NULL,NULL,organization,NULL
+1579,IPDC,"International Program for Development of Communications",NULL,NULL,organization,NULL
+1580,PRI,"Partido Revolucionario Institucional",NULL,NULL,organization,NULL
+1581,UNTAT,"UN Transitional Administration in East Timor",NULL,NULL,organization,NULL
+1582,SAS,"Scandinavian Airlines System",NULL,NULL,organization,NULL
+1583,ARAMCO,"Arabian American Oil Company",NULL,NULL,organization,NULL
+1584,PARCA,"Pan American Railway Congress Association in Buenos Aires",NULL,NULL,organization,NULL
+1585,JAT,"Yugoslav Airline",NULL,NULL,organization,NULL
+1586,JAL,"Japan Air Lines",NULL,NULL,organization,NULL
+1587,BASC,"Berlin Air Safety Center",NULL,NULL,organization,NULL
+1588,FTUI,"Free Trade Union Institute",NULL,NULL,organization,NULL
+1589,ACTU,"Australian Labor Union",NULL,NULL,organization,NULL
+1590,KAL,"Korean National Airlines",NULL,NULL,organization,NULL
+1591,IPU,"Interparliamentary Union",NULL,NULL,organization,NULL
+1592,FMLN,"Farabundo Marti Liberacion Nacional",NULL,NULL,organization,NULL
+1593,STAT,"UN Statistical Commission",NULL,NULL,organization,NULL
+1594,NGA,"National Gallery of Art",NULL,NULL,organization,NULL
+1595,UNAMSIL,"UN Mission in Sierra Leone",NULL,NULL,organization,NULL
+1596,IFRC,"International Federation of Red Cross and Red Crescent Societies",NULL,NULL,organization,NULL
+1597,IFRB,"International Frequency Registration Board",NULL,NULL,organization,NULL
+1598,LAB,"Department of Labor",NULL,NULL,organization,NULL
+1599,IFC,"International Finance Corporation in Washington, an affiliate of IBRD but a separate legal entity",NULL,NULL,organization,NULL
+1600,UNTSO,"UN Truce Supervision Organization",NULL,NULL,organization,NULL
+1601,USNRC,"Nuclear Regulatory Commission",NULL,NULL,organization,NULL
+1602,CEC,"Commission of the European Communities",NULL,NULL,organization,NULL
+1603,GREENS,"Green Party",NULL,NULL,organization,NULL
+1604,PFLP,"Popular Front for Liberation of Palestine",NULL,NULL,organization,NULL
+1605,CEQ,"Council on Environmental Quality",NULL,NULL,organization,NULL
+1606,CEP,"Civil Emergency Planning Committee",NULL,NULL,organization,NULL
+1607,GCC,"Gulf Cooperation Council",NULL,NULL,organization,NULL
+1608,PEMEX,"Petroleas Mexicanos",NULL,NULL,organization,NULL
+1609,ICMC,"International Catholic Migration Commission",NULL,NULL,organization,NULL
+1610,ED,"Department of Education",NULL,NULL,organization,NULL
+1611,IHB,"International Hydrographic Bureau",NULL,NULL,organization,NULL
+1612,USSS,"US Secret Service",NULL,NULL,organization,NULL
+1613,RFE,"Radio Free Europe",NULL,NULL,organization,NULL
+1614,CSU,"Christian Social Union",NULL,NULL,organization,NULL
+1615,AFP,"Agence France Press",NULL,NULL,organization,NULL
+1616,EP,"European Parliament",NULL,NULL,organization,NULL
+1617,ITTO,"International Tropical Timber Organization",NULL,NULL,organization,NULL
+1618,USTR,"Office of the Special Representative for Trade Negotiations",NULL,NULL,organization,NULL
+1619,CITIBANK,"First National City Bank of New York",NULL,NULL,organization,NULL
+1620,OMSN,"Office of Micronesian Status Negotiations",NULL,NULL,organization,NULL
+1621,"Phalange Party","Political Party in Lebanon",NULL,NULL,organization,NULL
+1622,NIOC,"National Iranian Oil Company",NULL,NULL,organization,NULL
+1623,SSA,"Social Security Administration",NULL,NULL,organization,NULL
+1624,ATA,"Atlantic Treaty Association",NULL,NULL,organization,NULL
+1625,PUAS,"Postal Union of the Americas and Spain",NULL,NULL,organization,NULL
+1626,ISO,"International Sugar Organization",NULL,NULL,organization,NULL
+1627,IADB,"Inter-American Defense Board",NULL,NULL,organization,NULL
+1628,IRC,"International Rice Commission",NULL,NULL,organization,NULL
+1629,FCSC,"Foreign Claims Settlement Commission of the US",NULL,NULL,organization,NULL
+1630,AAFLI,"Asian American Free Labor Institute",NULL,NULL,organization,NULL
+1631,UNBRO,"UN Border Relief Operations",NULL,NULL,organization,NULL
+1632,WILPF,"Womens International League for Peace",NULL,NULL,organization,NULL
+1633,WPO,"Warsaw Pact Organization & Warsaw Treaty Organization",NULL,NULL,organization,NULL
+1634,SEC,"Securities and Exchange Commission",NULL,NULL,organization,NULL
+1635,AL-1,"Arab League",NULL,NULL,organization,NULL
+1636,CONTRIB,"UN Committee on Contributions",NULL,NULL,organization,NULL
+1637,IPHC,"International Pacific Halibut Commission U.S. and Canada",NULL,NULL,organization,NULL
+1638,ESDI,"European Security and Defense Identity",NULL,NULL,organization,NULL
+1639,FRB,"Board of Governors of the Federal Reserve System AKA Federal Reserve Board",NULL,NULL,organization,NULL
+1640,IMC,"International Meteorological Committee",NULL,NULL,organization,NULL
+1641,EUN,"European Economic Community AKA European Common Market",NULL,NULL,organization,NULL
+1642,BBG,"Broadcasting Board of Governors",NULL,NULL,organization,NULL
+1643,IMH,"International Mission of Hope",NULL,NULL,organization,NULL
+1644,BBC,"British Broadcasting Company",NULL,NULL,organization,NULL
+1645,NMFS,"National Marine Fisheries Services",NULL,NULL,organization,NULL
+1646,UNC,"UN Command in Korea",NULL,NULL,organization,NULL
+1647,CSTP,"Committee for Scientific and Technical Personnel",NULL,NULL,organization,NULL
+1648,PDC,"Christian Democratic Party in El Salvador",NULL,NULL,organization,NULL
+1649,UNO,"United Nicaraguan Opposition",NULL,NULL,organization,NULL
+1650,OMB,"Office of Management and Budget Formerly Bureau of the Budget",NULL,NULL,organization,NULL
+1651,CEAC,"Committee on European Airspace Coordination",NULL,NULL,organization,NULL
+1652,BWIA,"British West Indies Airline",NULL,NULL,organization,NULL
+1653,NUC,"NATO-Ukraine Commission",NULL,NULL,organization,NULL
+1654,EAPC,"Euro-Atlantic Partnership Council",NULL,NULL,organization,NULL
+1655,ITT,"International Telephone and Telegraph Company",NULL,NULL,organization,NULL
+1656,TUC,"Trade Union Conference",NULL,NULL,organization,NULL
+1657,AAA,"American Automobile Association",NULL,NULL,organization,NULL
+1658,AAI,"African American Institute",NULL,NULL,organization,NULL
+1659,DC,"Christian Democratic Party in Italy",NULL,NULL,organization,NULL
+1660,IBWC,"International Boundary and Water Commission United States and Mexico",NULL,NULL,organization,NULL
+1661,ICO-1,"International Cocoa Organization",NULL,NULL,organization,NULL
+1662,GM-1,"General Motors",NULL,NULL,organization,NULL
+1663,CIME,"Committee on Investments and Multi-National Enterprise",NULL,NULL,organization,NULL
+1664,PKFK,"NATO Led Peacekeeping Forces in Kosovo",NULL,NULL,organization,NULL
+1665,USIS,"United States Information Service",NULL,NULL,organization,NULL
+1666,TGC,"Tripartite Gold Commission",NULL,NULL,organization,NULL
+1667,UCD,"United Democratic Center",NULL,NULL,organization,NULL
+1668,SCEPC,"Senior Civil Emergency Planning Committee",NULL,NULL,organization,NULL
+1669,ZANU,"Zimbabwe African National Union",NULL,NULL,organization,NULL
+1670,BIS,"Bank of International Settlements",NULL,NULL,organization,NULL
+1671,UNEF,"UN Emergency Force",NULL,NULL,organization,NULL
+1672,LOT,"Polish National Airlines",NULL,NULL,organization,NULL
+1673,CWS,"Church World Service",NULL,NULL,organization,NULL
+1674,IMO,"Intergovernmental Maritime Consultative Organization",NULL,NULL,organization,NULL
+1675,ICAF,"Industrial College of the Armed Forces",NULL,NULL,organization,NULL
+1676,CWC,"Chemical Weapons Convention",NULL,NULL,organization,NULL
+1677,MCG,"Mediterranean Cooperation Group (NATO)",NULL,NULL,organization,NULL
+1678,UNETPSA,"UN Educational and Training Program for Southern Africa",NULL,NULL,organization,NULL
+1679,FSLN,"Sandinistas National Liberation Front",NULL,NULL,organization,NULL
+1680,MCLRS,"Maintenance of Certain Lights in the Red Sea",NULL,NULL,organization,NULL
+1681,"Colombo Plan",CPCTC,NULL,NULL,organization,NULL
+1682,FNLA,"National Front for the Liberation of Angola",NULL,NULL,organization,NULL
+1683,Alitalia,"Italian Airline",NULL,NULL,organization,NULL
+1684,PAC,"Pan Africanist Congress",NULL,NULL,organization,NULL
+1685,ICSC,"Interim Committee on Communication Satellites",NULL,NULL,organization,NULL
+1686,Bundesbank,"Central Bank of the FRG",NULL,NULL,organization,NULL
+1687,IICA,"Inter-American Institute of Agriculture",NULL,NULL,organization,NULL
+1688,PAL,"Philippine Airlines",NULL,NULL,organization,NULL
+1689,PAN,"Partido Accion Nacional",NULL,NULL,organization,NULL
+1690,SPLA,"Sudan Peoples’ Liberation Army",NULL,NULL,organization,NULL
+1691,MONUC,"UN Organization Mission in the Democratic Republic of the Congo",NULL,NULL,organization,NULL
+1692,DCI,"Defense Capabilities Initiative",NULL,NULL,organization,NULL
+1693,OSCE,"Organization for Security and Cooperation in Europe",NULL,NULL,organization,NULL
+1694,SPLM,"Sudan Peoples’ Liberation Movement",NULL,NULL,organization,NULL
+1695,DCA,"Defense Communication Agency",NULL,NULL,organization,NULL
+1696,EALG,"East Asian Liaison Group",NULL,NULL,organization,NULL
+1697,CARE,"Cooperative for American Relief Everywhere, Inc",NULL,NULL,organization,NULL
+1698,GPO,"Government Printing Office",NULL,NULL,organization,NULL
+1699,THY,"Turkish Airlines",NULL,NULL,organization,NULL
+1700,IAF,"Inter-American Foundation",NULL,NULL,organization,NULL
+1701,MTCRE,"Missile Technology Control Regime",NULL,NULL,organization,NULL
+1702,WEU,"Western European Union",NULL,NULL,organization,NULL
+1703,UNGOMAP,"UN Good Offices Mission for Afghanistan and Pakistan",NULL,NULL,organization,NULL
+1704,FAPLA,"Forcas Armadas Para A Liberacao De Angola",NULL,NULL,organization,NULL
+1705,NIH,"National Institute of Health",NULL,NULL,organization,NULL
+1706,OIE,"International Office of Epizootics",NULL,NULL,organization,NULL
+1707,NTIS,"National Technical Information Service",NULL,NULL,organization,NULL
+1708,PSOE,"Spanish Socialist Workers’ Party",NULL,NULL,organization,NULL
+1709,UNMOGIP,"UN Military Observer Group in India and Pakistan",NULL,NULL,organization,NULL
+1710,EUROCONTROL,"European Organization for the Safety of Air Navigation",NULL,NULL,organization,NULL
+1711,UNMIK,"UN Interim Administration Mission in Kosovo",NULL,NULL,organization,NULL
+1712,INFCE,"International Nuclear Cycle Evaluation",NULL,NULL,organization,NULL
+1713,CEMA,"Council on Mutual Economic Assistance",NULL,NULL,organization,NULL
+1714,FDA,"Food and Drug Administration (HHS)",NULL,NULL,organization,NULL
+1715,CRS,"Catholic Relief Services",NULL,NULL,organization,NULL
+1716,AMAL,"Movement of the Deprived (Sh’a Muslim Militia Organization)",NULL,NULL,organization,NULL
+1717,FDN,"Democratic Revolutionary Front in El Salvador",NULL,NULL,organization,NULL
+1718,VFW,"Veterans of Foreign Wars",NULL,NULL,organization,NULL
+1719,AEC,"Atomic Energy Commission",NULL,NULL,organization,NULL
+1720,FDR,"Guerrilla Group in El Salvador",NULL,NULL,organization,NULL
+1721,TRSY,"Department of the Treasury",NULL,NULL,organization,NULL
+1722,IRC-3,"International Red Cross",NULL,NULL,organization,NULL
+1723,PBEIST,"Planning Board for European Inland Surface Transportation",NULL,NULL,organization,NULL
+1724,AMAX,"American Metals Climax Inc",NULL,NULL,organization,NULL
+1725,SDFCU,"State Department Federal Credit Union",NULL,NULL,organization,NULL
+1726,TUAC,"Trade Union Advisory Committee (OECD)",NULL,NULL,organization,NULL
+1727,UNOMIG,"UN Observation Mission in Georgia",NULL,NULL,organization,NULL
+1728,ABMC,"American Battle Monuments Commission",NULL,NULL,organization,NULL
+1729,MFO,"Multinational Force Observers",NULL,NULL,organization,NULL
+1730,JUS,"Department of Justice",NULL,NULL,organization,NULL
+1731,LDP,"Liberal Democratic Party",NULL,NULL,organization,NULL
+1732,FINNAIR,"National Airline of Finland",NULL,NULL,organization,NULL
+1733,SAARC,"South Asian Association for Regional Cooperation",NULL,NULL,organization,NULL
+1734,ARENA,"Political Party in El Salvador",NULL,NULL,organization,NULL
+1735,UNDRO,"Office of UN Disaster Relief, UN Disaster Relief Coordinator",NULL,NULL,organization,NULL
+1736,OSHA,"Occupational Safety and Health Administration",NULL,NULL,organization,NULL
+1737,IAII,"Inter-American Indian Institute",NULL,NULL,organization,NULL
+1738,ASALA,"Armenian Secret Army",NULL,NULL,organization,NULL
+1739,UNCRIME,"Crime Prevention Control Committee (UN)",NULL,NULL,organization,NULL
+1740,AVIANCA,"Aerovias Nacionales De Colombia",NULL,NULL,organization,NULL
+1741,JLP,"Jamaica Labor Party",NULL,NULL,organization,NULL
+1742,ANC,"African National Congress",NULL,NULL,organization,NULL
+1743,PSD,"Social Democratic Party in Portugal",NULL,NULL,organization,NULL
+1744,AUCCTU,"All Union Central Council of Trade Unions (USSR)",NULL,NULL,organization,NULL
+1745,OPM,"Office of Personnel Management",NULL,NULL,organization,NULL
+1746,UMNO,"United Malays National Organization",NULL,NULL,organization,NULL
+1747,ILA,"International Law Association",NULL,NULL,organization,NULL
+1748,UNIKOM,"UN Iraq-Kuwait Observation Mission",NULL,NULL,organization,NULL
+1749,KMT,"Kuomintang or Nationalist Party",NULL,NULL,organization,NULL
+1750,ECOWAS,"Economic Community of West African States",NULL,NULL,organization,NULL
+1751,USGS,"US Geodetic Survey",NULL,NULL,organization,NULL
+1752,APAG,"Atlantic Policy Advisory Group",NULL,NULL,organization,NULL
+1753,TVA,"Tennessee Valley Authority",NULL,NULL,organization,NULL
+1754,PIARC,"Permanent International Association of Road Congresses",NULL,NULL,organization,NULL
+1755,AFL-CIO,"American Federation of Labor-Congress of Industrial Organizations",NULL,NULL,organization,NULL
+1756,IREX,"International Research and Exchange Board",NULL,NULL,organization,NULL
+1757,CAAC,"Civil Aviation Authority for China",NULL,NULL,organization,NULL
+1758,RL,"Radio Liberty",NULL,NULL,organization,NULL
+1759,PSI,"Italian Socialist Party",NULL,NULL,organization,NULL
+1760,COMIBOL,"Bolivian National Mining Corporation or Corporacion Minera De Bolivia",NULL,NULL,organization,NULL
+1761,OIC-2,"International Olympic Committee",NULL,NULL,organization,NULL
+1762,IEA,"International Energy Agency",NULL,NULL,organization,NULL
+1763,NDR,"Nicaraguan Democratic Resistance",NULL,NULL,organization,NULL
+1764,NDU,"National Defense University",NULL,NULL,organization,NULL
+1765,JCIC,"Joint Compliance and Inspection Commission",NULL,NULL,organization,NULL
+1766,CDG,"Conference of Committee on Disarmament",NULL,NULL,organization,NULL
+1767,OECS,"Organization of Eastern Caribbean States",NULL,NULL,organization,NULL
+1768,CDC,"Communicable Diseases Center",NULL,NULL,organization,NULL
+1769,TDB,"Trade and Development Board",NULL,NULL,organization,NULL
+1770,CDI,"Christian Democratic International",NULL,NULL,organization,NULL
+1771,WFC-2,"World Food Council",NULL,NULL,organization,NULL
+1772,INT,"Department of the Interior",NULL,NULL,organization,NULL
+1773,PLA,"Sudan Peoples’ Liberation Army",NULL,NULL,organization,NULL
+1774,PLN,"National Liberation Front in Costa Rica",NULL,NULL,organization,NULL
+1775,FAPC,"Food and Agriculture Planning Committee",NULL,NULL,organization,NULL
+1776,UNAUS,"UN Association of the United States of America",NULL,NULL,organization,NULL
+1777,LOC,"Library of Congress",NULL,NULL,organization,NULL
+1778,IYC,"International Youth Conference",NULL,NULL,organization,NULL
+1779,RENAMO,"Resistencia Nacional Mocambicana",NULL,NULL,organization,NULL
+1780,IAJC,"Inter-American Juridical Committee (OAS)",NULL,NULL,organization,NULL
+1781,DIA,"Defense Intelligence Agency",NULL,NULL,organization,NULL
+1782,ICBL,"The International Campaign to Ban Landmines",NULL,NULL,organization,NULL
+1783,UNGA/C-4,"Trusteeship Committee (UNGA), UN General Assembly Fourth Committee",NULL,NULL,organization,NULL
+1784,UNGA/C-5,"UN General Assembly Adm and Budget Committee, UN General Assembly Fifth Committee",NULL,NULL,organization,NULL
+1785,UNGA/C-6,"UN General Assembly Legal Committee, UN General Assembly Sixth Committee",NULL,NULL,organization,NULL
+1786,UNHRC-1,"UN Human Rights Commission",NULL,NULL,organization,NULL
+1787,UNGA/C-1,"Political Committee (UNGA), UN General Assembly First Committee",NULL,NULL,organization,NULL
+1788,UNGA/C-2,"UN General Assembly Economic Committee, UN General Assembly Second Committee",NULL,NULL,organization,NULL
+1789,UNGA/C-3,"UN General Assembly Social Committee, UN General Assembly Third Committee",NULL,NULL,organization,NULL
+1790,PICES,"North Pacific Marine Science Organization",NULL,NULL,organization,NULL
+1791,PPD,"Party for Peace and Democracy",NULL,NULL,organization,NULL
+1792,NSA,"National Security Agency",NULL,NULL,organization,NULL
+1793,NSC,"National Security Council",NULL,NULL,organization,NULL
+1794,WJC,"World Jewish Congress",NULL,NULL,organization,NULL
+1795,IBWM,"International Bureau of Weights and Measures",NULL,NULL,organization,NULL
+1796,GAO,"General Accounting Office",NULL,NULL,organization,NULL
+1797,IBPCA,"International Bureau of the Permanent Court of Arbitration",NULL,NULL,organization,NULL
+1798,PPP,"Pakistan Peoples Party",NULL,NULL,organization,NULL
+1799,BP-1,"British Petroleum Company",NULL,NULL,organization,NULL
+1800,PHS,"Public Health Service",NULL,NULL,organization,NULL
+1801,"AER LINGUS","Irish Airline",NULL,NULL,organization,NULL
+1802,FAA,"Federal Aviation Administration",NULL,NULL,organization,NULL
+1803,VA,"Veterans Administration",NULL,NULL,organization,NULL
+1804,IRS,"Internal Revenue Service",NULL,NULL,organization,NULL
+1805,IRA,"Irish Republican Army",NULL,NULL,organization,NULL
+1806,UANC,"United African National Congress",NULL,NULL,organization,NULL
+1807,ARDE,"Revolutionary Democratic Alliance",NULL,NULL,organization,NULL
+1808,ASPAC,"Asian and Pacific Council",NULL,NULL,organization,NULL
+1809,ECMT,"European Conference of Ministers of Transport",NULL,NULL,organization,NULL
+1810,ARC,"American Red Cross",NULL,NULL,organization,NULL
+1811,OVP,"Office of the Vice President",NULL,NULL,organization,NULL
+1812,NAA,"North Atlantic Assembly",NULL,NULL,organization,NULL
+1813,BOS,"Southern Opposition Block",NULL,NULL,organization,NULL
+1814,GSA,"General Services Administration",NULL,NULL,organization,NULL
+1815,NAS,"National Academy of Sciences (US)",NULL,NULL,organization,NULL
+1816,MNLF,"Mor National Liberation Front",NULL,NULL,organization,NULL
+1817,CPSU,"Communist Party in the USSR",NULL,NULL,organization,NULL
+1818,EPC,"Economic Policy Committee (OECD)",NULL,NULL,organization,NULL
+1819,FWS,"Fish and Wildlife Service",NULL,NULL,organization,NULL
+1820,FDIC,"Federal Deposit Insurance Corp.",NULL,NULL,organization,NULL
+1821,PIA,"Pakistani Airlines",NULL,NULL,organization,NULL
+1822,QANTAS,"Qantas Empire Airways",NULL,NULL,organization,NULL
+1823,DHS,"Department of Homeland Security",NULL,NULL,organization,NULL
+1824,UIL,"Italian Labor Union",NULL,NULL,organization,NULL
+1825,APECO,"Asia Pacific Economic Cooperation",NULL,NULL,organization,NULL
+1826,IOM,"International Organization for Migration",NULL,NULL,organization,NULL
+1827,UNIFIL,"UN Force in Lebanon, UN Interim Force in Lebanon, & UN International Forces in Lebanon",NULL,NULL,organization,NULL
+1828,HKA,"Hong Kong Airways",NULL,NULL,organization,NULL
+1829,CONOCO,"Continental Oil Company",NULL,NULL,organization,NULL
+1830,BQG,Bonngroup,NULL,NULL,organization,NULL
+1831,IAHRC,"Inter-American Human Rights Commission",NULL,NULL,organization,NULL
+1832,NAMSA,"NATO Management Supply Agency",NULL,NULL,organization,NULL
+1833,SVC,"Special Verification Commission",NULL,NULL,organization,NULL
+1834,CCIR,"International Radio Consultative Committee",NULL,NULL,organization,NULL
+1835,DOD,"Department of Defense",NULL,NULL,organization,NULL
+1836,DOE,"Department of Energy",NULL,NULL,organization,NULL
+1837,OATU,"Organization of African Union Unity",NULL,NULL,organization,NULL
+1838,FCIA,"Federal Credit Insurance Association",NULL,NULL,organization,NULL
+1839,BENDIX,"Bendix Corporation",NULL,NULL,organization,NULL
+1840,ETA,"Basque Terrorist Group",NULL,NULL,organization,NULL
+1841,JDL,"Jewish Defense League",NULL,NULL,organization,NULL
+1842,SOCINT,"Socialist International",NULL,NULL,organization,NULL
+1843,UNCRED,"UN Credentials Committee",NULL,NULL,organization,NULL
+1844,VARIG,"S A Empresa De Viacao Area Rio Grandense, Brazilian International Airline",NULL,NULL,organization,NULL
+1845,APCAC,"Asian Pacific Council of American Chambers of Commerce",NULL,NULL,organization,NULL
+1846,G-8,"Group of Eight",NULL,NULL,organization,NULL
+1847,CTM,Customs,NULL,NULL,organization,NULL
+1848,KANU,"Kenya African National Union",NULL,NULL,organization,NULL
+1849,OSIA,"Onsight Inspection Agency",NULL,NULL,organization,NULL
+1850,COM,"Department of Commerce",NULL,NULL,organization,NULL
+1851,SCC,"Standing Consultative Commission",NULL,NULL,organization,NULL
+1852,ICC,"Interstate Commerce Commission",NULL,NULL,organization,NULL
+1853,NWC,"National War College",NULL,NULL,organization,NULL
+1854,NACB,"Nonaligned Coordinating Bureau",NULL,NULL,organization,NULL
+1855,ICTR,"International Criminal Tribunal for Rwanda",NULL,NULL,organization,NULL
+1856,PBS,"Public Broadcasting System",NULL,NULL,organization,NULL
+1857,UPI,"United Press International",NULL,NULL,organization,NULL
+1858,ICTY,"International Criminal Tribunal for the former Yugoslavia",NULL,NULL,organization,NULL
+1859,UPD,"Democratic Popular Unity",NULL,NULL,organization,NULL
+1860,ISCON,"Islamic Conference",NULL,NULL,organization,NULL
+1861,IOLM,"International Organization for Legal Metrology",NULL,NULL,organization,NULL
+1862,CAPC,"Civil Aviation Planning Committee (NATO)",NULL,NULL,organization,NULL
+1863,VOA,"Voice of America",NULL,NULL,organization,NULL
+1864,ZAPU,"Zimbabwe African Peoples Union",NULL,NULL,organization,NULL
+1865,IUCNNR,"International Union for the Conservation of Nature and Natural Resources",NULL,NULL,organization,NULL
+1866,WHC,"World Heritage Convention (The)",NULL,NULL,organization,NULL
+1867,UN,"United Nations",NULL,NULL,organization,NULL
+1868,UNMIBH,"UN Mission In Bosnia and Herzegovina",NULL,NULL,organization,NULL
+1869,FBIS,"Foreign Broadcast Information Service",NULL,NULL,organization,NULL
+1870,AEDF,"Asian Economic Development Fund",NULL,NULL,organization,NULL
+1871,ESA,"European Space Agency",NULL,NULL,organization,NULL
+1872,NEB,"National Energy Board",NULL,NULL,organization,NULL
+1873,ACABQ,"UN Advisory Committee on Administration and Budget Questions",NULL,NULL,organization,NULL
+1874,UNMEE,"UN Mission in Ethiopia and Eritrea",NULL,NULL,organization,NULL
+1875,IDA,"International Development Association Administered by the IBRD",NULL,NULL,organization,NULL
+1876,NKDP,"New Korean Democratic Party",NULL,NULL,organization,NULL
+1877,NBS,"National Bureau of Standards",NULL,NULL,organization,NULL
+1878,"AEROLINEAS ARGENTINAS","Argentine Airline",NULL,NULL,organization,NULL
+1879,RRB,"Railroad Retirement Board",NULL,NULL,organization,NULL
+1880,CDU,"Christian Democratic Union",NULL,NULL,organization,NULL
+1881,NBC,"National Broadcasting Company",NULL,NULL,organization,NULL
+1882,NRC-5,"National Research Council (US)",NULL,NULL,organization,NULL
+1883,KGB,"Soviet Intelligence Service",NULL,NULL,organization,NULL
+1884,UNIDCP,"UN International Drug Control Program",NULL,NULL,organization,NULL
+1885,ELN,"Bolivian National Liberation Army",NULL,NULL,organization,NULL
+1886,RDP,"Reunification Democracy Party",NULL,NULL,organization,NULL
+1887,ELF,"Eritrean Liberation Front",NULL,NULL,organization,NULL
+1888,ORIT-ICFTU,"Inter-American Regional Organization of the ICFTU, Organizacion Regional Interamericana de Trabajadores",NULL,NULL,organization,NULL
+1889,HCOPIL,"Hague Conference on Private Intl Law",NULL,NULL,organization,NULL
+1890,ADF,"African Development Foundation",NULL,NULL,organization,NULL
+1891,NBCCA,"National Bipartisan Comm on Central America",NULL,NULL,organization,NULL
+1892,SSOD,"Special Session on Disarmament (UN)",NULL,NULL,organization,NULL
+1893,NTIA,"National Telecommunications and Information Administration",NULL,NULL,organization,NULL
+1894,UNDOF,"UN Disengagement Observer Force",NULL,NULL,organization,NULL
+1895,EDRC,"Economic and Development Review Committee in OECD",NULL,NULL,organization,NULL
+1896,MEA,"Middle East Airlines",NULL,NULL,organization,NULL
+1897,EXIM,"Export Import Bank of US",NULL,NULL,organization,NULL
+1898,UNCHC,"UN Committee on Hostages Convention",NULL,NULL,organization,NULL
+1899,NPFSC,"North Pacific Fur Seal Commission",NULL,NULL,organization,NULL
+1900,FBI,"Federal Bureau of Investigation",NULL,NULL,organization,NULL
+1901,NIAG,"NATO Industrial Advisory Group",NULL,NULL,organization,NULL
+1902,UNCHS,"UN Commission on Human Settlements",NULL,NULL,organization,NULL
+1903,INMARSAT,"International Maritime Satellite",NULL,NULL,organization,NULL
+1904,SFOR,"NATO Led Stabilization Forces in Bosnia-Herzegovina",NULL,NULL,organization,NULL
+1905,CIA,"Central Intelligence Agency",NULL,NULL,organization,NULL
+1906,USPS,"US Postal Service",NULL,NULL,organization,NULL
+1907,UNPOP,"UN Population Commission",NULL,NULL,organization,NULL
+1908,FLN,"Algerian National Liberation Front AKA National Army of Liberation (Algeria)",NULL,NULL,organization,NULL
+1909,ADB-1,"Association for the Advancement of International Education",NULL,NULL,organization,NULL
+1910,CIL,"Central Identification Lab",NULL,NULL,organization,NULL
+1911,CIS,"Commonwealth of Independent States",NULL,NULL,organization,NULL
+1912,CIP,"Council on International Programs",NULL,NULL,organization,NULL
+1913,SWAPO,"Southwest Africa Peoples Organization",NULL,NULL,organization,NULL
+1914,FEMA,"Federal Emergency Management Administration",NULL,NULL,organization,NULL
+1915,EAL,"Ethiopian Airlines",NULL,NULL,organization,NULL
+1916,EAC,"East African Community",NULL,NULL,organization,NULL
+1917,UNTERR,"Terrorism Committee (UN)",NULL,NULL,organization,NULL
+1918,IJC,"International Joint Commission U.S.-Canada",NULL,NULL,organization,NULL
+1919,FPC,"Federal Power Commission",NULL,NULL,organization,NULL
+1920,AI,"Amnesty International",NULL,NULL,organization,NULL
+1921,KLM,"Royal Dutch Airlines",NULL,NULL,organization,NULL
+1922,UMOA,"Union Monetaire Ouest Africaine, West African Monetary",NULL,NULL,organization,NULL
+1923,AP,"Associated Press",NULL,NULL,organization,NULL
+1924,CONDECA,"Central American Defense Council",NULL,NULL,organization,NULL
+1925,TNC,"Tariff Negotiating Committee (GATT)",NULL,NULL,organization,NULL
+1926,HHS,"Department of Health and Human Services",NULL,NULL,organization,NULL
+1927,CEA,"Council of Economic Advisers",NULL,NULL,organization,NULL
+1928,AEROPERU,"National Airline of Peru",NULL,NULL,organization,NULL
+1929,UNCSD,"UN Commission on Social Development",NULL,NULL,organization,NULL
+1930,SELA,"Latin American Economic System",NULL,NULL,organization,NULL
+1931,PFP,"Partnership for Peace (NATO)",NULL,NULL,organization,NULL
+1932,UNTFSA,"UN Trust Fund for South Africa",NULL,NULL,organization,NULL
+1933,IJO,"International Jute Organization",NULL,NULL,organization,NULL
+1934,ETTC,"Trade and Technology Controls","ETTC    TRADE AND TECHNOLOGY CONTROLS\nEffective from April 1984\nGovernment efforts to control the transfer of goods (i.e., equipment), services, or technologies. This includes foreign policy trade controls, strategic (National Security) trade controls, munitions controls, general West to East technology transfer issues, and efforts to circumvent U.S. or COCOM controls. (Replaces RCHB file categories: FT, STR)\n",NULL,subject,NULL
+1935,CJAN,"Judicial Assistance and Notarial Services","CJAN JUDICIAL ASSISTANCE AND NOTARIAL SERVICES\nEffective from May 1983\nMatters pertaining to Notarial Services and International Judicial Assistance, including the service of judicial and extra-judicial documents and obtaining evidence. (Replaces RCHB file categories: LEG, PS)\n",NULL,subject,NULL
+1936,EPET,"Petroleum and Natural Gas","EPET    PETROLEUM AND NATURAL GAS\nEffective from July 1980 (Revised January 1983)\n",NULL,subject,NULL
+1937,TINT,"Internet Technology",NULL,NULL,subject,NULL
+1938,CMGT,"Consular Administration and Management","CMGT CONSULAR ADMINSTRATION AND MANAGEMENT\nEffective from August 1983\nThe administrative and operational management of Consular Affairs activities. (Replaces RCHB file categories: ACC, BUD, CON, FMGT,ORG, PER)\n",NULL,subject,NULL
+1939,OIIP,"International Information Programs","OIIP INTERNATIONAL INFORMATION PROGRAMS\nEffective from October 1999\nAdministrative and operational aspects of international information programs, products, and services that increase international support for U.S. policies and understanding of U.S. society.\n",NULL,subject,NULL
+1940,SMIG,Migration,"SMIG   MIGRATION\nEffective from March 1995\nThe legal or illegal movement of people across borders, border control, and the treatment of aliens by receiving states. (Replaces RCHB file category: REF)\n",NULL,subject,NULL
+1941,ODIP,"U.S. Diplomatic Representation","ODIP   U.S. DIPLOMATIC REPRESENTATION\nEffective from January 1983\nOfficial representational and ceremonial activities of U.S. diplomats and U.S. Government officials; includes all aspects of privileges and immunities. Use for ceremonial activities hosted by U.S. officials. (Replaces RCHB file categories: PER, POL)\n",NULL,subject,NULL
+1942,OFDP,"Foreign Diplomats and Foreign Missions","OFDP FOREIGN DIPLOMATS AND FOREIGN MISSIONS\nEffective from January 1983\nAdministrative, representational, and ceremonial matters related to non-U.S. diplomatic personnel and foreign missions; includes all aspects of privileges and immunities. Use for ceremonial activities hosted by non-U.S. diplomats. (Replaces RCHB file category: POL)\n",NULL,subject,NULL
+1943,AORC,"International Organizations and Conferences","AORC INTERNATIONAL ORGANIZATIONS AND CONFERENCES\nEffective from January 1983\nThe structure and management of international or regional organizations and conferences. (Replaces RCHB file category: POL and Organization Name)\n",NULL,subject,NULL
+1944,PTER,"Terrorists and Terrorism","PTER   TERRORISTS AND TERRORISM\nEffective from March 1981 (Revised January 1983)\nAll aspects of terrorism which transcend national boundaries due to the nationality of the perpetrator, victim, place, or the incident. (Replaces RCHB file category: POL)\n",NULL,subject,NULL
+1945,PHSA,"High Seas Affairs","PHSA   HIGH SEAS AFFAIRS\nEffective from January 1983\nActivities on the high seas, outside a country’s national jurisdiction. (Replaces RCHB file category: POL)\n",NULL,subject,NULL
+1946,PBTS,"National Boundaries, Territories, and Sovereignty","PBTS NATIONAL BOUNDARIES, TERRITORIES, AND SOVEREIGNTY\nEffective from January 1983\nA territory over which dominion is exercised. (Replaces RCHB file category: POL)\n",NULL,subject,NULL
+1947,ACOA,"Communication Operations and Administration",NULL,NULL,subject,NULL
+1948,ECPS,"Communications and Postal Systems","ECPS COMMUNICATIONS AND POSTAL SYSTEMS\nEffective from March 1983\nThe efforts of governments, the private sector, or international organizations to manage, regulate, develop, apply, or monitor the methods and means of telecommunication, international communication policy, and the informational aspects of communication. (Replaces RCHB file categories: INF, MP, PO, PPB, PR, RAD, SP, TEL, TV)\n",NULL,subject,NULL
+1949,AINT,"Internet Administration",NULL,NULL,subject,NULL
+1950,PNAT,"National Independence",NULL,NULL,subject,NULL
+1951,AOMS,"Office Management Specialist Issues",NULL,NULL,subject,NULL
+1952,PHUM,"Human Rights","PHUM  HUMAN RIGHTS\nEffective from January 1985\nThe violation of rights attributable to human beings. (Replaces RCHB file categories: POL, SOC)\n",NULL,subject,NULL
+1953,BMGT,"FCS Management Operations",NULL,NULL,subject,NULL
+1954,AFSN,"Foreign Service National Personnel",NULL,NULL,subject,NULL
+1955,ADPM,"Diplomatic Pouch and Mail",NULL,NULL,subject,NULL
+1956,AADP,"Automated Data Processing",NULL,NULL,subject,NULL
+1957,MCAP,"Military Capabilities","MCAP  MILITARY CAPABILITIES\nEffective from March 1973 to June 1974 (Revised January 1983)\nThe nonnuclear offensive and defensive ability of the military establishment of a nation or international organization. (Replaces RCHB file category: DEF)\n",NULL,subject,NULL
+1958,TSPL,"Science and Technology Policy",NULL,NULL,subject,NULL
+1959,PREL,"External Political Relations","PREL   EXTERNAL POLITICAL RELATIONS\nEffective from January 1983\nThe political relations between countries, international or regional organizations both bilateral and multilateral, that assess intentions, objectives, plans, or possible courses of interaction. (Replaces RCHB file category: CSM, POL)\n",NULL,subject,NULL
+1960,PREF,Refugees,"PREF   REFUGEES\nEffective from January 1985 (Revised March 1995)\nPeople who move across borders because of danger to life or fear of persecution. (Replaces RCHB file category: REF)\n",NULL,subject,NULL
+1961,EINT,"Economic and Commercial Internet","EINT ECONOMIC AND COMMERCIAL INTERNET\nEffective from October 1997\nEconomic and commercial programs, policies, and issues relating to the Internet.\n",NULL,subject,NULL
+1962,CLOK,"Visa Lookout",NULL,NULL,subject,NULL
+1963,OPRC,"Public Relations and Correspondence","OPRC   PUBLIC RELATIONS AND CORRESPONDENCE\nEffective from January 1983\nCorrespondence to and from the public commenting on U.S. policy and foreign incidents, requesting information and speaking engagements, and any other public relations activities. This TAGS includes routine constituent’s correspondence such as employment opportunities, requests for photographs, autographs, etc. Also includes press summaries and press conferences, public opinion polls, and the administrative arrangements for press conferences. (Replaces RCHB file category: PR)\n",NULL,subject,NULL
+1964,APCS,"Personal Computers",NULL,NULL,subject,NULL
+1965,ADCO,"Diplomatic Courier Operations",NULL,NULL,subject,NULL
+1966,OPDC,"Diplomatic Correspondence","OPDC   DIPLOMATIC CORRESPONDENCE\nEffective from January 1983\nCorrespondence and ceremonial messages between prominent leaders and principal officers. (Replaces RCHB file category: POL)\n",NULL,subject,NULL
+1967,ACKM,"COMSEC Key Management",NULL,NULL,subject,NULL
+1968,TNGD,"Engineering Research and Development",NULL,NULL,subject,NULL
+1969,TRGY,"Energy Technology","TRGY   ENERGY TECHNOLOGY\nEffective from July 1980 (Revised January 1983)\nResearch and development of energy sources. (Replaces RCHB file categories: AE, DEF, FSE, PET, SCI)\n",NULL,subject,NULL
