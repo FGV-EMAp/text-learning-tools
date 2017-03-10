@@ -10,6 +10,7 @@ Completed tasks  and to-do list:
 About the files in notebook folder, we have 
 * Tesseract_OCR: for OCR
 * processamento_textos: for Data Cleansing
+* processamento_textos-ignore_case: Second version of Data Cleansing which makes a database without CAPS correction. Used for entity extraction step.
 * build_mysql_database_docs: Creates table with matadata about documents, such as id, content, main language, readability.
 * build_mysql_database_dossies: Creates table with matadata about dossies (related with documents), such as subject, keywords, collection, url.
 * Clustering_LDA_test_models: Testa parâmetros de modelagem de tópicos e usa dois modelos diferentes (LDA e HDP)
