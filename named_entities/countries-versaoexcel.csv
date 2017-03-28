@@ -1,0 +1,265 @@
+id;name;doc_count
+...;United States;586963
+...;Soviet Union;122748
+...;East Germany;66414
+...;United Kingdom;66227
+...;Japan;62516
+...;Egypt;54818
+...;France;54259
+...;Israel;54139
+...;Mexico;42242
+...;Canada;41398
+...;Italy;37943
+...;India;37759
+...;Thailand;34644
+...;China;33678
+...;South Korea;32919
+...;Turkey;32094
+...;Poland;31038
+...;Iran;30952
+...;Philippines;29756
+...;South Africa;29740
+...;Greece;29107
+...;Brazil;28767
+...;Romania;27538
+...;Saudi Arabia;26336
+...;Spain;26273
+...;Socialist Federal Republic of Yugoslavia;26148
+...;Argentina;25455
+...;Chile;25117
+...;Pakistan;22959
+...;Lebanon;22819
+...;Portugal;22720
+...;Australia;22345
+...;Nigeria;21327
+...;Indonesia;20921
+...;Venezuela;20921
+...;Taiwan;19828
+...;Syria;19773
+...;Belgium;19356
+...;Colombia;18253
+...;Peru;17678
+...;Ethiopia;17516
+...;Cyprus;17254
+...;Sweden;17220
+...;Switzerland;17205
+...;Democratic Republic of the Congo;17084
+...;Jordan;16905
+...;Laos;16848
+...;Ecuador;16112
+...;Cuba;16030
+...;Netherlands;15993
+...;Cambodia;15789
+...;Morocco;14652
+...;Rhodesia;14041
+...;Austria;13593
+...;Czechoslovakia;13502
+...;Hungary;13139
+...;Hong Kong;12407
+...;Kuwait;12251
+...;Afghanistan;11852
+...;Malaysia;11844
+...;Kenya;11457
+...;West Berlin;11418
+...;Algeria;11356
+...;Bolivia;11207
+...;Norway;10887
+...;Angola;10848
+...;Nicaragua;10788
+...;Singapore;10547
+...;Sudan;10425
+...;Costa Rica;10396
+...;Denmark;10338
+...;Bangladesh;9842
+...;Guatemala;9792
+...;Bulgaria;9732
+...;Tunisia;9709
+...;Jamaica;9540
+...;Iraq;9527
+...;Libya;9508
+...;North Korea;9329
+...;Zambia;9048
+...;Tanzania;8836
+...;New Zealand;8709
+...;Honduras;8587
+...;Ghana;8093
+...;Senegal;8037
+...;Vietnam;7998
+...;Uruguay;7887
+...;El Salvador;7844
+...;Burma;7793
+...;Somalia;7762
+...;Dominican Republic;7699
+...;United Arab Emirates;7531
+...;South-West Africa;7514
+...;Finland;7308
+...;Sri Lanka;7271
+...;Mozambique;7063
+...;Ivory Coast;6948
+...;Paraguay;6527
+...;Haiti;6364
+...;Liberia;6110
+...;Republic of Ireland;6088
+...;Guyana;6075
+...;The Bahamas;5740
+...;Trinidad and Tobago;5594
+...;Gabon;5590
+...;Iceland;5452
+...;North Yemen;5256
+...;Nepal;5195
+...;Cameroon;5064
+...;Mauritania;5021
+...;Botswana;4771
+...;Madagascar;4720
+...;Bahrain;4636
+...;Guinea;4555
+...;Oman;4520
+...;Barbados;4448
+...;Mali;4181
+...;Uganda;4042
+...;Qatar;3888
+...;Chad;3704
+...;Malta;3597
+...;Benin;3493
+...;Central African Republic;3476
+...;Papua New Guinea;3405
+...;Sierra Leone;3288
+...;Spanish Sahara;3258
+...;Niger;3231
+...;Togo;3116
+...;Luxembourg;3045
+...;Panama Canal Zone;3037
+...;Puerto Rico;3013
+...;Upper Volta;2998
+...;Belize;2972
+...;Swaziland;2961
+...;Mauritius;2867
+...;Fiji;2695
+...;Burundi;2636
+...;Lesotho;2632
+...;Rwanda;2600
+...;Suriname;2492
+...;Malawi;2426
+...;Netherlands Antilles (before Aruba split away in 1986);2279
+...;The Gambia;2192
+...;Guam;2063
+...;Vatican City;1638
+...;Guinea-Bissau;1546
+...;Pitcairn Islands;1498
+...;Republic of the Congo;1479
+...;West Germany;1431
+...;South Yemen;1429
+...;Bermuda;1422
+...;Seychelles;1307
+...;Albania;1254
+...;American Samoa;1118
+...;Portuguese Timor;917
+...;Grenada;891
+...;Cape Verde Islands;868
+...;French Territory of Afars and Issas;828
+...;Djibouti;760
+...;Martinique;697
+...;British Indian Ocean Territory;641
+...;Tonga;565
+...;Samoa;564
+...;Mongolia;505
+...;Maldives;502
+...;Comoros;500
+...;Equatorial Guinea;497
+...;French West Indies;492
+...;Antigua and Barbuda;469
+...;Panama;465
+...;Svalbard and Jan Mayen;465
+...;United States Virgin Islands;426
+...;Sao Tome and Principe;408
+...;Greenland;407
+...;Solomon Islands;398
+...;Coral Sea Islands Territory;385
+...;Saint Christopher-Nevis-Anguilla;368
+...;Zimbabwe;358
+...;French Guiana;322
+...;Niue;314
+...;Western Sahara;292
+...;Saint Lucia;287
+...;Dominica;283
+...;San Marino;274
+...;Germany;264
+...;Monaco;249
+...;Macau;240
+...;Saint Vincent and the Grenadines;215
+...;Sikkim;212
+...;Bhutan;209
+...;New Hebrides;206
+...;Anguilla;192
+...;Nauru;187
+...;British West Indies;168
+...;Liechtenstein;163
+...;Cook Islands;162
+...;Paracel Islands;162
+...;Brunei;159
+...;Gilbert Islands;151
+...;Spratly Island;151
+...;Ryukyu Islands;131
+...;Turks and Caicos Islands;131
+...;Gibraltar;130
+...;French Polynesia;120
+...;Wrangel Islands;120
+...;Trust Territory of the Pacific Islands;117
+...;Cayman Islands;101
+...;British Virgin Islands;95
+...;Falkland Islands;90
+...;Slovenia;90
+...;Guadeloupe;87
+...;Faroe Islands;81
+...;Montserrat;75
+...;New Caledonia;75
+...;Tuvalu;74
+...;Reunion;62
+...;Gaza Strip;58
+...;Northern Mariana Islands;55
+...;Line Islands;55
+...;Andorra;51
+...;Jan Mayen;44
+...;Saint Helena (Ascension and Tristan da Cunha);43
+...;Saint Pierre and Miquelon;42
+...;Cocos (Keeling) Islands;37
+...;Slovakia;32
+...;Wallis and Futuna;30
+...;Canton and Enderbury Islands;23
+...;Ashmore and Cartier Islands;21
+...;Ukraine;20
+...;Glorioso Islands;20
+...;Wake Island;17
+...;Tokelau;15
+...;Bouvet Island;13
+...;SaudiaIraqi neutral zone;13
+...;Johnston Atoll;11
+...;Norfolk Island;11
+...;Serbia;11
+...;Clipperton Island;11
+...;Christmas Island;9
+...;Antarctica;8
+...;Swan Islands;8
+...;Yemen;6
+...;Midway Atoll;5
+...;Southern Africa;5
+...;Czech Republic;4
+...;Armenia;3
+...;Mayotte;3
+...;French Southern and Antarctic Lands;3
+...;Baltic States;3
+...;Juan de Nova Island;3
+...;Southern Europe;3
+...;Georgia (country);2
+...;Heard Island and McDonald Islands;2
+...;Aruba;2
+...;Central Africa;2
+...;Tromelin Island;2
+...;Bosnia and Herzegovina;1
+...;Eritrea;1
+...;Lithuania;1
+...;Federated States of Micronesia;1
+...;Marshall Islands;1
+...;Arabian Peninsula;1
+...;Europa Island;1
+...;North Atlantic Area;1
