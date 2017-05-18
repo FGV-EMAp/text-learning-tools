@@ -7,19 +7,19 @@ Completed tasks  and to-do list:
 * MapReduce
 * Data Visualization
 
-About the files in notebook folder, we have 
-* Tesseract_OCR: for OCR
-* processamento_textos: for Data Cleansing
-* processamento_textos-ignore_case: Second version of Data Cleansing which makes a database without CAPS correction. Used for entity extraction step.
+About the files in notebooks folder: 
+* Tesseract_ocr: for OCR
+* text_processing: for Data Cleansing
+* text_processing-ignore_case: Second version of Data Cleansing which makes a database without CAPS correction. Used for entity extraction step.
 * build_mysql_database_docs: Creates table with matadata about documents, such as id, content, main language, readability.
 * build_mysql_database_dossies: Creates table with matadata about dossies (related with documents), such as subject, keywords, collection, url.
-* Clustering_LDA_test_models: Testa parâmetros de modelagem de tópicos e usa dois modelos diferentes (LDA e HDP)
-* doc_topics: Creates table with data about topics, documents and topic modelling score
-* doc_entities: Mineração de dados de entidades/pessoas
-* doc_entities_country: Mineração de dados de entidades/países
-* doc_entities_vis: Faz visualização de dados a partir das entidades (RASCUNHO)
-* doc_entities_vis: Cria base de dados direcionada a posterior visualização em grafos
-* Palavras_Snippet: Algoritmo de extração de entidades com o 'palavras'
+* clustering_lda_test_models: Testa parâmetros de modelagem de tópicos e usa dois modelos diferentes (LDA e HDP)
+* clustering_lda_doc_topics_mysql: Creates table with data about topics, documents and topic modelling score
+* doc_entities_person_names_list.ipynb: Creates person gazeteers for extraction
+* doc_entities_person_extract_and_store.ipynb: Data Mining for entities/persons
+* doc_entities_country: Data Mining for entities/countries
+* doc_entities_vis: Makes some basic visualization (draft)
+* doc_entities_vis_graph: Builds data for visualization with graphs
 
 Also, we have organization tools in cpdoc-file-organization folder, that we used to reorder and rename CPDOC files.
 They are listed by the order they were used:
